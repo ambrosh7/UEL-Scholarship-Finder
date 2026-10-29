@@ -1,7 +1,7 @@
 "use client";
 
 import { useRouter } from "next/navigation";
-import { useMemo, useState, type ReactNode } from "react";
+import { useEffect, useMemo, useState, type ReactNode } from "react";
 import { PhoneShell } from "@/components/layout/PhoneShell";
 import { PinnedBar, PinnedCta } from "@/components/layout/PinnedCta";
 import { WizardHeader } from "@/components/layout/WizardHeader";
@@ -50,7 +50,6 @@ import {
   saveStep,
   type PartialAnswers,
 } from "@/lib/session";
-import { useIsClient } from "@/lib/useIsClient";
 
 type Step = 1 | 2 | 3 | 4 | 5 | 6 | "teaser" | "gate";
 
@@ -78,8 +77,6 @@ function restoredStep(answers: PartialAnswers): Step {
 export function FinderWizard() {
   const router = useRouter();
   const catalogue = useMemo(() => loadCatalogue(), []);
-  const isClient = useIsClient();
-  const [hydrated, setHydrated] = useState(false);
   const [step, setStep] = useState<Step>(1);
   const [answers, setAnswers] = useState<PartialAnswers>({});
   const [name, setName] = useState("");
@@ -89,21 +86,19 @@ export function FinderWizard() {
   const [gateError, setGateError] = useState("");
   const [submitting, setSubmitting] = useState(false);
 
-  if (isClient && !hydrated) {
+  useEffect(() => {
     const startFresh =
       new URLSearchParams(window.location.search).get("new") === "1";
     if (startFresh) {
       clearWizardSession();
-      setAnswers({});
-      setStep(1);
       window.history.replaceState(null, "", "/find");
-    } else {
-      const storedAnswers = loadAnswers();
-      setAnswers(storedAnswers);
-      setStep(restoredStep(storedAnswers));
+      return;
     }
-    setHydrated(true);
-  }
+    const storedAnswers = loadAnswers();
+    if (Object.keys(storedAnswers).length === 0) return;
+    setAnswers(storedAnswers);
+    setStep(restoredStep(storedAnswers));
+  }, []);
 
   function update(patch: PartialAnswers) {
     setAnswers((prev) => {
@@ -210,13 +205,6 @@ export function FinderWizard() {
     }
   }
 
-  if (!hydrated) {
-    return (
-      <PhoneShell>
-        <p className="px-5 py-10 text-base text-muted">Loading…</p>
-      </PhoneShell>
-    );
-  }
 
   const questionStep = typeof step === "number" ? step : 6;
 

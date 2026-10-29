@@ -288,7 +288,7 @@ export function parentWhatsApp(input: {
     "UEL Fit & Scholarship Finder (not an offer).",
     `Course: ${title}. ${eligibilityPlain}`,
     scholarshipLine,
-    `Year-one costs are 2026/27 estimates in GBP (tuition ${formatGbp(cost.tuitionGbp)}). Visa, IHS, living and flights may still be PLACEHOLDER until confirmed on GOV.UK. INR is a dated RBI snapshot, not live FX.`,
+    `Year-one costs are 2026/27 estimates in GBP (tuition ${formatGbp(cost.tuitionGbp)}). Flights may still be PLACEHOLDER. INR is a dated RBI snapshot, not live FX.`,
     "An adviser can talk this through. UEL decides any place and any scholarship.",
   ];
 

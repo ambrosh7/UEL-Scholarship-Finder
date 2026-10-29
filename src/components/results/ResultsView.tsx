@@ -75,8 +75,17 @@ export function ResultsView({ profile, match }: ResultsViewProps) {
 
       <div className="flex flex-col gap-3.5 border-t border-line pt-5 text-[15px] leading-6 text-ink-text">
         <p>{fundingFragment(profile)}</p>
-        <p>{interestFragment(profile, match.course)}</p>
-        {careerFragment(profile) ? <p>{careerFragment(profile)}</p> : null}
+        <SurfaceCard>
+          <span className="eyebrow">Life in London</span>
+          <p className="mt-2 font-serif text-[18px] leading-7 text-ink-deep">
+            {interestFragment(profile, match.course)}
+          </p>
+          {careerFragment(profile) ? (
+            <p className="mt-3 text-[15px] leading-6 text-ink-text">
+              {careerFragment(profile)}
+            </p>
+          ) : null}
+        </SurfaceCard>
       </div>
 
       <p className="rounded-xl border-l-[3px] border-ink bg-surface-low px-4 py-3.5 text-[15px] leading-6 text-ink-deep">

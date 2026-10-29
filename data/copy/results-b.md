@@ -21,14 +21,14 @@ Year one, 2026/27 — pounds first. Rupees are a labelled RBI snapshot (126.4657
 
 Tuition £16,020 (about ₹20,25,981).
 Scholarship £500–£5,000 off first-year tuition (range, not deducted from the fee).
-Typical room £8,010.
+Living in London (GOV.UK visa financial requirement, 9 months): £13,761.
+Student visa (from outside the UK): £558.
+Immigration Health Surcharge (student rate, one year): £776.
 Tuition deposit £1,500.
-Living in London: PLACEHOLDER — confirm on GOV.UK.
-Student visa: PLACEHOLDER — confirm on GOV.UK.
-IHS: PLACEHOLDER — confirm on GOV.UK.
+Typical room £8,010 — UEL halls, not a second rent on top of the GOV.UK living figure.
 Flights India → London: PLACEHOLDER — confirm on GOV.UK / UEL.
 
-Sourced lines so far: £25,530. Not a complete year-one total while PLACEHOLDER lines remain.
+Sourced lines so far: £32,615. Not a complete year-one total while PLACEHOLDER lines remain.
 
 From Kochi, East London is a practical place to cook. Shops and markets around Stratford make it easier to find the spices and vegetables you already know, and to try other food when you want a change.
 
@@ -54,7 +54,7 @@ Cost is the worry that would kill UEL at the dining table. The range sits next t
 
 ### First-year cost
 
-Mother says no if the fee looks too high, and she will also say no if a later number appears that we hid. Full stack, pounds first, PLACEHOLDER left on living, visa, IHS and flights. No complete year-one total.
+Mother says no if the fee looks too high, and she will also say no if a later number appears that we hid. Full stack, pounds first, GOV.UK living / visa / IHS sourced, PLACEHOLDER left on flights. No complete year-one total. Halls rent is shown, not added on top of the visa living figure.
 
 ### Life in London
 

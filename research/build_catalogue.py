@@ -24,8 +24,9 @@ DEPOSIT = "https://www.uel.ac.uk/study/fees-funding/paying-your-fees-internation
 ACCOM = "https://www.uel.ac.uk/study/accommodation/room-types-prices-payment-plans"
 RBI = "https://www.rbi.org.in/"
 GOV_VISA = "https://www.gov.uk/student-visa"
-GOV_IHS = "https://www.gov.uk/healthcare-immigration-application"
+GOV_IHS = "https://www.gov.uk/healthcare-immigration-application/how-much-pay"
 GOV_MONEY = "https://www.gov.uk/student-visa/money"
+GOV_CHECKED_ON = "2026-10-30"
 
 UG_INDIA = {
     "qualification": "class-12",
@@ -408,16 +409,18 @@ def scholarships() -> list[dict]:
 def costs() -> dict:
     return {
         "academicYear": "2026/27",
-        "londonLivingGbp": "PLACEHOLDER",
-        "visaGbp": "PLACEHOLDER",
-        "ihsGbp": "PLACEHOLDER",
+        "londonLivingGbp": 13761,
+        "visaGbp": 558,
+        "ihsGbp": 776,
         "depositGbp": 1500,
         "accommodationGbp": 8010,
         "flightsGbp": "PLACEHOLDER",
         "inrPerGbp": 126.4657,
         "inrSourceUrl": RBI,
         "notes": [
-            "Visa, IHS and London living/maintenance are PLACEHOLDER until Ambrosh spot-checks GOV.UK.",
+            "London living: GOV.UK Student visa financial requirement £1,529 per month for up to 9 months in London = £13,761. Checked 2026-10-30 on https://www.gov.uk/student-visa/money. This is the money you must show for a visa, not a personal spending forecast. Typical UEL room below is a halls price, not a second rent on top of this figure.",
+            "Student visa: £558 to apply from outside the UK. Checked 2026-10-30 on https://www.gov.uk/student-visa.",
+            "IHS: £776 per year at the student rate. Checked 2026-10-30 on https://www.gov.uk/healthcare-immigration-application/how-much-pay. A visa longer than one year would cost more. First-year stack uses one year.",
             "Tuition deposit: £1,500 starts pre-CAS checks; the full deposit is in the offer letter and a further payment is required for CAS. Source: paying-your-fees-international-students, 2026-10-28.",
             "Typical room: East standard full academic year 12/09/2026–06/06/2027, £8,010 (£210/week). Range on the same page: West standard £182/week in the room table vs intro/FAQ 'from £189/week'. Halls security deposit £250.",
             "Flights India → London not sourced. PLACEHOLDER.",
@@ -431,13 +434,13 @@ def costs() -> dict:
 def source_rows(courses: list[dict]) -> list[dict]:
     rows: list[dict] = []
 
-    def add(field, value, url, collector, issues=""):
+    def add(field, value, url, collector, issues="", checked_on=CHECKED_ON):
         rows.append(
             {
                 "field": field,
                 "value": value,
                 "url": url,
-                "checkedOn": CHECKED_ON,
+                "checkedOn": checked_on,
                 "collector": collector,
                 "issues": issues,
             }
@@ -501,9 +504,30 @@ def source_rows(courses: list[dict]) -> list[dict]:
         "East standard full academic year 2026/27. Intro/FAQ says from £189/week; West standard table shows £182/week.",
     )
     add("costs.accommodationDepositGbp", "250", "https://www.uel.ac.uk/study/accommodation/how-apply-student-accommodation-uel-202627", "scrapy", "Refundable halls security deposit.")
-    add("costs.londonLivingGbp", "PLACEHOLDER", GOV_MONEY, "govuk-spot-check", "Awaiting Ambrosh GOV.UK spot-check.")
-    add("costs.visaGbp", "PLACEHOLDER", GOV_VISA, "govuk-spot-check", "Awaiting Ambrosh GOV.UK spot-check.")
-    add("costs.ihsGbp", "PLACEHOLDER", GOV_IHS, "govuk-spot-check", "Awaiting Ambrosh GOV.UK spot-check.")
+    add(
+        "costs.londonLivingGbp",
+        "13761",
+        GOV_MONEY,
+        "govuk-spot-check",
+        "GOV.UK London financial requirement £1,529/month × 9 months. Visa maintenance figure, not a personal spend forecast. Do not add typical UEL room on top of this as a second rent.",
+        GOV_CHECKED_ON,
+    )
+    add(
+        "costs.visaGbp",
+        "558",
+        GOV_VISA,
+        "govuk-spot-check",
+        "Student visa from outside the UK.",
+        GOV_CHECKED_ON,
+    )
+    add(
+        "costs.ihsGbp",
+        "776",
+        GOV_IHS,
+        "govuk-spot-check",
+        "Student IHS rate per year. A longer visa costs more; year-one stack uses one year.",
+        GOV_CHECKED_ON,
+    )
     add("costs.flightsGbp", "PLACEHOLDER", "PLACEHOLDER", "scrapy", "Not sourced. Do not invent a fare.")
     add("costs.inrPerGbp", "126.4657", RBI, "rbi", "As at 1.00pm 28 Oct 2026. Source FBIL, displayed on RBI homepage.")
     add("ug.internationalHeadlineGbp", "16020", FEES_PDF, "live-check", "2026/27 international UG headline, all schools except listed nursing exceptions.")
@@ -543,7 +567,7 @@ Checked on {CHECKED_ON}. Academic year **2026/27**.
 1. Confirmed [UEL robots.txt](https://www.uel.ac.uk/robots.txt). Course, scholarship and India URLs are allowed. `/admin`, `/user/login`, `/search` and `/node` are disallowed. We never logged in.
 2. **Scrapy first.** Polite crawl (`DOWNLOAD_DELAY=3`, one request at a time, custom user-agent, cookies off) of 16 course pages plus scholarships, India entry, international fees, deposit, accommodation, admission deadlines and robots.txt. Raw extract and HTML: `data/raw/`.
 3. **Then every UEL fact was checked against the live page HTML** from that crawl. Browser live-check of Business Management BSc, Computer Science BSc, International Business Management MSc, the international scholarships page, and the India page.
-4. **GOV.UK** student visa, Immigration Health Surcharge and London living / maintenance are **PLACEHOLDER** until Ambrosh spot-checks them. Rows are in `sources.csv` with collector `govuk-spot-check`.
+4. **GOV.UK** checked 2026-10-30. Student visa from outside the UK **£558** ([student-visa](https://www.gov.uk/student-visa)). IHS student rate **£776 per year** ([how much you pay](https://www.gov.uk/healthcare-immigration-application/how-much-pay)). London financial requirement **£1,529 per month for up to 9 months = £13,761** ([money you need](https://www.gov.uk/student-visa/money)). That living figure is what a visa application must show, not a personal spending forecast, and it is not added on top of UEL halls as a second rent.
 5. **RBI** INR/GBP reference rate taken from [rbi.org.in](https://www.rbi.org.in/) as at 1.00pm 28 October 2026 (quoted source FBIL): **126.4657**. Labelled snapshot, not live FX.
 
 ## Basket changes
@@ -560,6 +584,8 @@ Checked on {CHECKED_ON}. Academic year **2026/27**.
 - Accommodation intro/FAQ says from **£189/week**; the West standard table shows **£182/week**. Typical room stored is East standard full year **£8,010**.
 - India page staff bio contained stray copy (“this is mine”) on the live page. Not used as a fact.
 - Flights India → London: unsourced, **PLACEHOLDER**.
+
+The Task 2 workbook is `data/catalogue/task2-sources.xlsx`. Flights stay PLACEHOLDER (yellow). Visa, IHS and London living are sourced 2026-10-30. Cover-sheet counts are Excel formulas.
 
 Scrapy does not replace the live check. `data/raw` is the scrape; `data/catalogue` is the checked JSON the app will read.
 """
@@ -624,13 +650,13 @@ def write_xlsx(courses: list[dict], rows: list[dict], living: dict) -> None:
     cover["A11"] = "Management courses"
     cover["B11"] = '=COUNTIF(Courses!D3:D30,"business")'
     cover["C8"] = "Must be at least 15"
-    cover["C10"] = "Visa, IHS, London living, flights until Ambrosh / a sourced fare"
+    cover["C10"] = "Flights still PLACEHOLDER. Visa, IHS and London living sourced 2026-10-30."
 
     cover["A13"] = "What to fill"
     cover["A13"].font = arial_bold
     cover["A14"] = (
-        "Yellow cells on the GOV.UK tab are for Ambrosh: visa fee, IHS, and London living / maintenance, "
-        "each with URL and date. Do not type invented numbers into the catalogue."
+        "GOV.UK visa (£558), IHS (£776/year student) and London living (£13,761 visa financial requirement) "
+        "were sourced 2026-10-30. Flights stay PLACEHOLDER. Yellow cells mean still missing. Do not invent a fare."
     )
     cover.merge_cells("A14:F16")
     cover["A14"].alignment = wrap
@@ -641,7 +667,7 @@ def write_xlsx(courses: list[dict], rows: list[dict], living: dict) -> None:
         "2. Scrapy polite crawl (3s delay, 1 concurrent) into data/raw.\n"
         "3. Live check of UEL facts against the page (browser sample: Business Management BSc, "
         "Computer Science BSc, International Business Management MSc, scholarships, India).\n"
-        "4. GOV.UK visa / IHS / living — Ambrosh.\n"
+        "4. GOV.UK visa £558 / IHS £776 / London living £13,761 — sourced 2026-10-30.\n"
         "5. RBI INR/GBP reference from rbi.org.in, 1.00pm 28 Oct 2026, 126.4657 (FBIL)."
     )
     cover.merge_cells("A19:F24")
@@ -727,16 +753,16 @@ def write_xlsx(courses: list[dict], rows: list[dict], living: dict) -> None:
     cs = wb.create_sheet("Costs")
     cs.append(["line", "who", "valueGbp", "url", "checkedOn", "notes"])
     cost_lines = [
-        ("londonLivingGbp", "Ambrosh GOV.UK", living["londonLivingGbp"], GOV_MONEY, "Spot-check London living / maintenance."),
-        ("visaGbp", "Ambrosh GOV.UK", living["visaGbp"], GOV_VISA, "Spot-check student visa fee."),
-        ("ihsGbp", "Ambrosh GOV.UK", living["ihsGbp"], GOV_IHS, "Spot-check Immigration Health Surcharge."),
-        ("depositGbp", "Build", living["depositGbp"], DEPOSIT, "£1,500 starts pre-CAS; full amount is in the offer letter."),
-        ("accommodationGbp", "Build", living["accommodationGbp"], ACCOM, "East standard full academic year 2026/27."),
-        ("flightsGbp", "Build", living["flightsGbp"], "PLACEHOLDER", "Unsourced. Keep PLACEHOLDER."),
-        ("inrPerGbp", "Build RBI", living["inrPerGbp"], RBI, "Reference rate as at 1.00pm 28 Oct 2026 (FBIL on RBI homepage)."),
+        ("londonLivingGbp", "GOV.UK", living["londonLivingGbp"], GOV_MONEY, GOV_CHECKED_ON, "Visa financial requirement £1,529 × 9 months. Not a personal spend forecast; not extra rent on halls."),
+        ("visaGbp", "GOV.UK", living["visaGbp"], GOV_VISA, GOV_CHECKED_ON, "Student visa from outside the UK."),
+        ("ihsGbp", "GOV.UK", living["ihsGbp"], GOV_IHS, GOV_CHECKED_ON, "Student IHS rate per year. Year-one stack uses one year."),
+        ("depositGbp", "Build", living["depositGbp"], DEPOSIT, CHECKED_ON, "£1,500 starts pre-CAS; full amount is in the offer letter."),
+        ("accommodationGbp", "Build", living["accommodationGbp"], ACCOM, CHECKED_ON, "East standard full academic year 2026/27."),
+        ("flightsGbp", "Build", living["flightsGbp"], "PLACEHOLDER", CHECKED_ON, "Unsourced. Keep PLACEHOLDER."),
+        ("inrPerGbp", "Build RBI", living["inrPerGbp"], RBI, CHECKED_ON, "Reference rate as at 1.00pm 28 Oct 2026 (FBIL on RBI homepage)."),
     ]
     for line in cost_lines:
-        cs.append([line[0], line[1], line[2], line[3], CHECKED_ON, line[4]])
+        cs.append([line[0], line[1], line[2], line[3], line[4], line[5]])
     style_header(cs, {"A": 22, "B": 18, "C": 16, "D": 70, "E": 14, "F": 55})
     for row_idx in range(2, 9):
         cell = cs[f"C{row_idx}"]
@@ -762,16 +788,21 @@ def write_xlsx(courses: list[dict], rows: list[dict], living: dict) -> None:
     # GOV.UK
     gov = wb.create_sheet("GOV.UK")
     gov.append(["fact", "valueGbp", "url", "checkedOn", "who"])
-    gov.append(["Student visa fee", "PLACEHOLDER", GOV_VISA, "", "Ambrosh"])
-    gov.append(["Immigration Health Surcharge", "PLACEHOLDER", GOV_IHS, "", "Ambrosh"])
-    gov.append(["London living / maintenance", "PLACEHOLDER", GOV_MONEY, "", "Ambrosh"])
-    gov["A6"] = "Paste the figure, the page URL, and the date you checked. Build will copy them into costs.json and sources.csv."
+    gov.append(["Student visa fee (from outside the UK)", living["visaGbp"], GOV_VISA, GOV_CHECKED_ON, "govuk-spot-check"])
+    gov.append(["Immigration Health Surcharge (student rate, one year)", living["ihsGbp"], GOV_IHS, GOV_CHECKED_ON, "govuk-spot-check"])
+    gov.append(["London living / maintenance (visa financial requirement, 9 months)", living["londonLivingGbp"], GOV_MONEY, GOV_CHECKED_ON, "govuk-spot-check"])
+    gov["A6"] = "Living is the GOV.UK visa financial requirement, not a personal spend forecast. Do not add UEL halls on top of it as a second rent. Flights stay PLACEHOLDER."
     gov.merge_cells("A6:E7")
-    style_header(gov, {"A": 36, "B": 16, "C": 70, "D": 14, "E": 14})
+    style_header(gov, {"A": 36, "B": 16, "C": 70, "D": 14, "E": 18})
     for row_idx in range(2, 5):
-        for col in ("B", "C", "D"):
-            gov[f"{col}{row_idx}"].fill = yellow
-            gov[f"{col}{row_idx}"].font = blue
+        cell = gov[f"B{row_idx}"]
+        cell.font = blue
+        if cell.value == "PLACEHOLDER":
+            for col in ("B", "C", "D"):
+                gov[f"{col}{row_idx}"].fill = yellow
+                gov[f"{col}{row_idx}"].font = blue
+        elif isinstance(cell.value, int):
+            cell.number_format = "£#,##0"
 
     # Issues
     iss = wb.create_sheet("Issues")

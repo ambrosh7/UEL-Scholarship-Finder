@@ -17,7 +17,7 @@ I’m still in Class 12. If I get around 75%, that would sit above the published
 
 Scholarship: typically £500–£5,000 off first-year tuition. UEL decides the amount in an offer letter — not a figure they have given me.
 
-Year one (2026/27), in pounds: tuition £16,020. Typical room £8,010. Deposit £1,500. Living, visa, IHS, flights: PLACEHOLDER — confirm on GOV.UK. Rupees: RBI snapshot 28 Oct 2026, not live.
+Year one (2026/27), in pounds: tuition £16,020. GOV.UK London living £13,761. Visa £558. IHS £776. Typical room £8,010 (not extra rent). Flights: PLACEHOLDER. Rupees: RBI snapshot 28 Oct 2026, not live.
 
 Can we sit with this? An adviser can talk it through. UEL decides any place and any scholarship.
 

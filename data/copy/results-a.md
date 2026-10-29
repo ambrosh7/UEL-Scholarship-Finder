@@ -21,14 +21,14 @@ Year one, 2026/27 — pounds are the source of truth. Rupees are a labelled RBI 
 
 Tuition £16,020 (about ₹20,25,981).
 Scholarship £500–£5,000 off first-year tuition (range, not deducted from the fee).
-Typical room £8,010.
+Living in London (GOV.UK visa financial requirement, 9 months): £13,761.
+Student visa (from outside the UK): £558.
+Immigration Health Surcharge (student rate, one year): £776.
 Tuition deposit £1,500.
-Living in London: PLACEHOLDER — confirm on GOV.UK.
-Student visa: PLACEHOLDER — confirm on GOV.UK.
-IHS: PLACEHOLDER — confirm on GOV.UK.
+Typical room £8,010 — UEL halls, not a second rent on top of the GOV.UK living figure.
 Flights India → London: PLACEHOLDER — confirm on GOV.UK / UEL.
 
-Sourced lines so far: £25,530. Not a complete year-one total while PLACEHOLDER lines remain.
+Sourced lines so far: £32,615. Not a complete year-one total while PLACEHOLDER lines remain.
 
 From Hyderabad, Docklands sits in East London, near the parks around the Queen Elizabeth Olympic Park. Weekends can look like football with other students.
 
@@ -56,7 +56,7 @@ A loan student stays if year one looks possible. The range sits here, not in a f
 
 ### First-year cost
 
-The lender wants pounds. Home wants a rupee snapshot with a date. PLACEHOLDER lines stay visible so a later GOV.UK figure cannot blow up a fake low total. £25,530 is only the sourced lines, labelled as incomplete.
+The lender wants pounds. Home wants a rupee snapshot with a date. GOV.UK visa, IHS and London maintenance are now sourced. Flights stay PLACEHOLDER so a later fare cannot blow up a fake low total. £32,615 is only the sourced lines, labelled as incomplete, and does not add halls rent on top of the visa living figure.
 
 ### Life in London
 

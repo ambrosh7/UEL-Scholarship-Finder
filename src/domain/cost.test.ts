@@ -19,13 +19,13 @@ describe("year-one cost stack", () => {
     const result = match(studentA, catalogue);
     const summary = summariseYearOneCost(result.yearOneCost);
 
-    assert.equal(result.yearOneCost.londonLivingGbp, PLACEHOLDER);
-    assert.equal(result.yearOneCost.visaGbp, PLACEHOLDER);
-    assert.equal(result.yearOneCost.ihsGbp, PLACEHOLDER);
+    assert.equal(result.yearOneCost.londonLivingGbp, 13761);
+    assert.equal(result.yearOneCost.visaGbp, 558);
+    assert.equal(result.yearOneCost.ihsGbp, 776);
     assert.equal(result.yearOneCost.flightsGbp, PLACEHOLDER);
     assert.equal(summary.complete, false);
     assert.ok(summary.placeholderFields.includes("Flights"));
-    assert.ok(summary.placeholderFields.includes("Student visa"));
+    assert.ok(!summary.placeholderFields.includes("Student visa"));
 
     const lines = costStackLines(result.yearOneCost).join("\n");
     assert.match(lines, /PLACEHOLDER — confirm on GOV\.UK \/ UEL/);

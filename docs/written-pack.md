@@ -365,7 +365,7 @@ Every student-facing string must pass the honesty check. We never state as fact 
 | B.Com → computing master’s | Subject gap. Data Science MSc (any subject) may be mentioned as a *different* sourced course, not a pretend Computer Science match |
 | Teaser looks like an offer | “May apply.” “UEL decides.” “This is not an offer.” |
 | Max scholarship subtracted as “your fee” | Range shown; tuition stays the full sourced fee |
-| Missing visa / IHS / living / flights omitted | Lines stay visible as PLACEHOLDER. No fake grand total |
+| Missing cost lines omitted | Flights stay PLACEHOLDER. Visa, IHS and London living are sourced. Halls are not added on top of the visa living figure. No fake grand total |
 | Maths assumed | Prototype does not ask; an adviser will check |
 | Job figures because the father wants them | Named as a family want in Task 1. Not in the product |
 | Phone on screen one | Gate is after the teaser |
@@ -415,14 +415,14 @@ Year one, 2026/27 — pounds are the source of truth. Rupees are a labelled RBI 
 
 Tuition £16,020 (about ₹20,25,981).
 Scholarship £500–£5,000 off first-year tuition (range, not deducted from the fee).
-Typical room £8,010.
+Living in London (GOV.UK visa financial requirement, 9 months): £13,761.
+Student visa (from outside the UK): £558.
+Immigration Health Surcharge (student rate, one year): £776.
 Tuition deposit £1,500.
-Living in London: PLACEHOLDER — confirm on GOV.UK.
-Student visa: PLACEHOLDER — confirm on GOV.UK.
-IHS: PLACEHOLDER — confirm on GOV.UK.
+Typical room £8,010 — UEL halls, not a second rent on top of the GOV.UK living figure.
 Flights India → London: PLACEHOLDER — confirm on GOV.UK / UEL.
 
-Sourced lines so far: £25,530. Not a complete year-one total while PLACEHOLDER lines remain.
+Sourced lines so far: £32,615. Not a complete year-one total while PLACEHOLDER lines remain.
 
 From Hyderabad, Docklands sits in East London, near the parks around the Queen Elizabeth Olympic Park. Weekends can look like football with other students.
 
@@ -442,7 +442,7 @@ Button: Talk to an adviser
 
 **Scholarship.** A loan student stays if year one looks possible. The range sits here, not in a footer. We refuse a personal amount and we refuse tying it to 82%.
 
-**First-year cost.** The lender wants pounds. Home wants a rupee snapshot with a date. PLACEHOLDER lines stay visible so a later GOV.UK figure cannot blow up a fake low total. £25,530 is only the sourced lines, labelled as incomplete.
+**First-year cost.** The lender wants pounds. Home wants a rupee snapshot with a date. GOV.UK visa, IHS and London maintenance are sourced. Flights stay PLACEHOLDER. £32,615 is only the sourced lines, labelled as incomplete, and does not add halls rent on top of the visa living figure.
 
 **Life in London.** Hyderabad to Docklands, weekends that still have football. UK work is named as his hope and then refused as a promise — the family will look for jobs after the degree; we still do not invent one.
 
@@ -462,14 +462,14 @@ Year one, 2026/27 — pounds first. Rupees are a labelled RBI snapshot (126.4657
 
 Tuition £16,020 (about ₹20,25,981).
 Scholarship £500–£5,000 off first-year tuition (range, not deducted from the fee).
-Typical room £8,010.
+Living in London (GOV.UK visa financial requirement, 9 months): £13,761.
+Student visa (from outside the UK): £558.
+Immigration Health Surcharge (student rate, one year): £776.
 Tuition deposit £1,500.
-Living in London: PLACEHOLDER — confirm on GOV.UK.
-Student visa: PLACEHOLDER — confirm on GOV.UK.
-IHS: PLACEHOLDER — confirm on GOV.UK.
+Typical room £8,010 — UEL halls, not a second rent on top of the GOV.UK living figure.
 Flights India → London: PLACEHOLDER — confirm on GOV.UK / UEL.
 
-Sourced lines so far: £25,530. Not a complete year-one total while PLACEHOLDER lines remain.
+Sourced lines so far: £32,615. Not a complete year-one total while PLACEHOLDER lines remain.
 
 From Kochi, East London is a practical place to cook. Shops and markets around Stratford make it easier to find the spices and vegetables you already know, and to try other food when you want a change.
 
@@ -487,7 +487,7 @@ Button: Forward this to your parents
 
 **Scholarship.** Cost is the worry that would kill UEL at the dining table. The range sits next to the honesty line so “maybe we can” does not turn into “they will give us £3,000.”
 
-**First-year cost.** Mother says no if the fee looks too high, and she will also say no if a later number appears that we hid. Full stack, pounds first, PLACEHOLDER left on living, visa, IHS and flights.
+**First-year cost.** Mother says no if the fee looks too high, and she will also say no if a later number appears that we hid. Full stack, pounds first, GOV.UK living / visa / IHS sourced, PLACEHOLDER left on flights. Halls rent is shown, not added on top of the visa living figure.
 
 **Life in London.** Food and cooking, not football, not a generic campus paragraph. Stratford shops let them picture an ordinary week.
 
@@ -503,7 +503,7 @@ I’m still in Class 12. If I get around 75%, that would sit above the published
 
 Scholarship: typically £500–£5,000 off first-year tuition. UEL decides the amount in an offer letter — not a figure they have given me.
 
-Year one (2026/27), in pounds: tuition £16,020. Typical room £8,010. Deposit £1,500. Living, visa, IHS, flights: PLACEHOLDER — confirm on GOV.UK. Rupees: RBI snapshot 28 Oct 2026, not live.
+Year one (2026/27), in pounds: tuition £16,020. GOV.UK London living £13,761. Visa £558. IHS £776. Typical room £8,010 (not extra rent). Flights: PLACEHOLDER. Rupees: RBI snapshot 28 Oct 2026, not live.
 
 Can we sit with this? An adviser can talk it through. UEL decides any place and any scholarship.
 
@@ -559,12 +559,13 @@ Take Student B’s child as the example (Kochi, still in Class 12, business, fam
 - This is not an offer. UEL decides any place and any scholarship.
 - Course: Business Management BSc (Hons) at University Square Stratford.
 - Scholarship range £500–£5,000, with “This is not an offer” beside it.
-- The same year-one stack as the child: tuition £16,020, room £8,010, deposit £1,500, living / visa / IHS / flights still PLACEHOLDER, dated RBI rupees, sourced lines labelled incomplete.
+- The same year-one stack as the child: tuition £16,020, GOV.UK London living £13,761, visa £558, IHS £776, room £8,010, deposit £1,500, flights still PLACEHOLDER, dated RBI rupees, sourced lines labelled incomplete.
+- A short line on looking after them: this is a year-one money picture, not a promise they will be safe. UEL is in East London. Halls prices are published. An adviser can talk through campus and support. UEL decides any place.
 - A short forwardable paragraph in “they” language: still in Class 12; if they achieve around 75% that would be above the published 60%; not a final result; UEL decides.
 
-No second form. No “your weekends playing football.” Cost and honesty first. The fee is not a different number from the child’s page.
+No second form. No “your weekends playing football.” Cost, honesty, and what we can actually say about being looked after. The fee is not a different number from the child’s page.
 
-**Is that right?** **Yes.** The parent is deciding with money and safety, not browsing courses. Making them re-answer would lose the thread. Promising a place or an amount would be the lie the brief would mark us down for.
+**Is that right?** **Yes.** The parent is deciding with money and safety, not browsing courses. Making them re-answer would lose the thread. Promising they will be safe, or a place, or an amount, would be the lie the brief would mark us down for.
 
 ---
 

@@ -34,7 +34,7 @@ Question spec: [`docs/questions.md`](docs/questions.md).
 
 `npm run validate` checks `data/catalogue/*.json` and `sources.csv` against the domain types. `PLACEHOLDER` is allowed. Invented numbers are not.
 
-Visa, IHS and London living are **PLACEHOLDER** until the GOV.UK spot-check. Paste those into the yellow cells on the GOV.UK tab of `data/catalogue/task2-sources.xlsx`.
+Visa, IHS and London living are sourced from GOV.UK (checked 2026-10-30). Flights stay **PLACEHOLDER**. See `data/catalogue/task2-sources.xlsx`.
 
 To re-run the polite UEL scrape (obeys robots.txt, never logs in):
 

@@ -572,7 +572,7 @@ Every student-facing string (landing, questions, teaser, results, WhatsApp, than
 | B.Com → computing master’s | `subject_gap`. Data Science MSc (any subject) may be mentioned as a *different* sourced course, not a pretend CS match |
 | Teaser looks like an offer | “May apply.” “UEL decides.” “This is not an offer.” |
 | Max scholarship subtracted as “your fee” | Range shown; tuition stays the full sourced fee |
-| PLACEHOLDER visa / IHS / living / flights omitted | Lines stay visible. No fake grand total |
+| Missing cost lines omitted | Flights stay PLACEHOLDER. Visa, IHS and London living are sourced. Halls are not added on top of the visa living figure. No fake grand total |
 | Maths assumed | Prototype does not ask; adviser will check. Never invent a pass |
 | “92% employed” because the father wants placements | Named as a family want in Task 1. Not in the product |
 | Phone on screen one | Gate is after teaser |

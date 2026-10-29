@@ -74,6 +74,10 @@ export function summariseYearOneCost(cost: YearOneCost): YearOneCostSummary {
     if (value === PLACEHOLDER) {
       placeholderFields.push(label);
     } else if (typeof value === "number") {
+      // GOV.UK living already covers maintenance; halls rent is a typical room, not extra.
+      if (key === "accommodationGbp" && typeof cost.londonLivingGbp === "number") {
+        continue;
+      }
       sourcedTotalGbp += value;
     }
   }
@@ -102,9 +106,9 @@ export function costStackLines(cost: YearOneCost): string[] {
   return [
     `Tuition (${cost.academicYear}): ${formatGbp(cost.tuitionGbp)}`,
     scholarshipLine,
-    `Living in London: ${formatGbp(cost.londonLivingGbp)}`,
-    `Student visa: ${formatGbp(cost.visaGbp)}`,
-    `Immigration Health Surcharge: ${formatGbp(cost.ihsGbp)}`,
+    `Living in London (GOV.UK visa financial requirement, 9 months): ${formatGbp(cost.londonLivingGbp)}`,
+    `Student visa (from outside the UK): ${formatGbp(cost.visaGbp)}`,
+    `Immigration Health Surcharge (student rate, one year): ${formatGbp(cost.ihsGbp)}`,
     `Tuition deposit: ${formatGbp(cost.depositGbp)}`,
     `Typical room (academic year): ${formatGbp(cost.accommodationGbp)}`,
     `Flights from India to London: ${formatGbp(cost.flightsGbp)}`,

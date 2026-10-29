@@ -11,7 +11,16 @@ export default function ParentPage({ params }: PageProps<"/p/[id]">) {
         </PhoneShell>
       }
     >
-      <ParentScreen params={params} />
+      <ParentPageInner params={params} />
     </Suspense>
   );
+}
+
+async function ParentPageInner({
+  params,
+}: {
+  params: Promise<{ id: string }>;
+}) {
+  const { id } = await params;
+  return <ParentScreen id={id} />;
 }

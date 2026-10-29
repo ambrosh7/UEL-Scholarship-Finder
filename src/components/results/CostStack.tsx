@@ -38,12 +38,17 @@ export function CostStack({ cost }: { cost: YearOneCost }) {
           );
         })}
       </ul>
+      {typeof cost.londonLivingGbp === "number" &&
+      typeof cost.accommodationGbp === "number" ? (
+        <p className="mt-3 text-[13px] leading-5 text-muted">
+          The GOV.UK living figure is what a Student visa application must show
+          for London. The typical room is UEL halls, not a second rent on top of
+          that visa figure.
+        </p>
+      ) : null}
       {summary.complete ? null : (
         <p className="mt-3 text-[13px] leading-5 text-muted">
-          Sourced lines so far: £
-          {summary.sourcedTotalGbp.toLocaleString("en-GB")}. Not a complete
-          year-one total while PLACEHOLDER lines remain (
-          {summary.placeholderFields.join(", ")}).
+          {`Sourced lines so far: £${summary.sourcedTotalGbp.toLocaleString("en-GB")}. Not a complete year-one total while PLACEHOLDER lines remain (${summary.placeholderFields.join(", ")}).`}
         </p>
       )}
     </div>

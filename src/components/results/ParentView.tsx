@@ -56,6 +56,14 @@ export function ParentView({ childName, profile, match }: ParentViewProps) {
         honesty={TEASER.honesty}
       />
       <CostStack cost={match.yearOneCost} />
+      <SurfaceCard>
+        <span className="eyebrow">Looked after</span>
+        <p className="mt-2 text-[15px] leading-6 text-ink-text">
+          This is a year-one money picture, not a promise they will be safe.
+          UEL is in East London. Halls prices are published. An adviser can
+          talk through campus and support. UEL decides any place.
+        </p>
+      </SurfaceCard>
       <p className="text-[15px] leading-6 text-ink-text">{whatsapp}</p>
     </article>
   );

@@ -1,0 +1,29 @@
+To: team@edin.world
+Subject: UEL Fit & Scholarship Finder — submission (Ambrosh Vaz)
+
+Hello,
+
+Please find my submission for the UEL Fit & Scholarship Finder.
+
+1. Tasks 1, 3, 4 and 6
+   Attached: Tasks-1-3-4-6.md
+   (Word / PDF version attached if converted.)
+
+2. Task 2 — research spreadsheet
+   Attached: Task-2-sources.xlsx
+   Collection note (how it was collected, what was wrong or contradictory): Task-2-collection-note.md
+   Academic year 2026/27. Every fact has a source URL and a checked-on date. GOV.UK visa, IHS and London living are sourced (30 Oct 2026). Flights stay PLACEHOLDER, not an invented fare.
+
+3. Live prototype (Task 5)
+   https://uelscholarshipfinder-av-c447.vercel.app
+
+   Opens on a phone. Six questions from Task 3, then a teaser, name and Indian mobile, results from the same match as Task 4, and a thanks screen. Parent view is /p/[id] after a lead is saved.
+
+4. AI tools
+   Attached: AI-tools-note.md
+   Cursor for the prototype and drafts; Scrapy for Task 2 collection (then live-page check); Google Stitch for layout reference only.
+
+Nothing in the tool promises a place, a personal scholarship amount, a visa, or a job.
+
+Thank you,
+Ambrosh Vaz

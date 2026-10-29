@@ -35,6 +35,7 @@ export function ChoiceList({
                   ? "border-ink bg-navy-wash text-ink"
                   : "border-line bg-white text-ink-text"
               }`}
+              onClick={() => onChange(option.value)}
             >
               <input
                 type="radio"
@@ -45,14 +46,14 @@ export function ChoiceList({
                 className="sr-only"
               />
               <span
-                className={`pr-3 text-[16px] leading-6 ${
+                className={`pointer-events-none pr-3 text-[16px] leading-6 ${
                   selected ? "font-medium" : "font-normal"
                 }`}
               >
                 {option.label}
               </span>
               <span
-                className={`flex h-5 w-5 shrink-0 items-center justify-center rounded-full border ${
+                className={`pointer-events-none flex h-5 w-5 shrink-0 items-center justify-center rounded-full border ${
                   selected ? "border-ink bg-ink" : "border-[#c9c2b8] bg-white"
                 }`}
                 aria-hidden
