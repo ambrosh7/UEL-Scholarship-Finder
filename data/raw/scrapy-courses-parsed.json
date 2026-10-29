@@ -1,0 +1,1244 @@
+[
+  {
+    "kind": "course",
+    "id": "bsc-business-management",
+    "basket": "management-ug",
+    "level": "undergraduate",
+    "subjectFamily": "business",
+    "title": "Business Management BSc (Hons)",
+    "url": "https://www.uel.ac.uk/undergraduate/courses/bsc-hons-business-management",
+    "checkedOn": "2026-10-28",
+    "collector": "scrapy",
+    "startDates": [
+      "2027-01",
+      "2027-09"
+    ],
+    "swapNote": null,
+    "feeGbp": 16020,
+    "durationText": "3 years",
+    "campus": "University Square Stratford",
+    "campusHeadings": [
+      "University Square Stratford, London, E15 1NF"
+    ],
+    "options": [
+      {
+        "applicant": "Home Applicant ,",
+        "attendance": "Full time,",
+        "years": "3 years",
+        "feeText": "Fees:\u00a3 9,790 per year",
+        "feeGbp": 9790
+      },
+      {
+        "applicant": "International Applicant ,",
+        "attendance": "Full time,",
+        "years": "3 years",
+        "feeText": "Fees:\u00a3 16,020 per year",
+        "feeGbp": 16020
+      },
+      {
+        "applicant": "Home Applicant ,",
+        "attendance": "Full time,",
+        "years": "3 years",
+        "feeText": "Fees:\u00a3 10,050 per year. Subject to change, see Fees, Funding and Additional Costs below",
+        "feeGbp": 10050
+      },
+      {
+        "applicant": "International Applicant ,",
+        "attendance": "Full time,",
+        "years": "3 years",
+        "feeText": "Fees:\u00a3 TBC per year",
+        "feeGbp": "TBC"
+      },
+      {
+        "applicant": "Home Applicant ,",
+        "attendance": "Full time,",
+        "years": "4/5 years",
+        "feeText": "Fees:\u00a3 10,050 per year. Subject to change, see Fees, Funding and Additional Costs below",
+        "feeGbp": 10050
+      },
+      {
+        "applicant": "International Applicant ,",
+        "attendance": "Full time,",
+        "years": "4/5 years",
+        "feeText": "Fees:\u00a3 TBC per year",
+        "feeGbp": "TBC"
+      }
+    ],
+    "ielts": [],
+    "acceptedQualifications": [],
+    "issues": [
+      "JSON-LD start dates are 2027 on a 2026/27 research pass (checked 2026-10-28). September 2026 intake has already started.",
+      "International fee listed as TBC on at least one course option (often foundation/placement variant)."
+    ]
+  },
+  {
+    "kind": "course",
+    "id": "bsc-marketing",
+    "basket": "management-ug",
+    "level": "undergraduate",
+    "subjectFamily": "business",
+    "title": "Marketing BSc (Hons)",
+    "url": "https://www.uel.ac.uk/undergraduate/courses/bsc-hons-marketing",
+    "checkedOn": "2026-10-28",
+    "collector": "scrapy",
+    "startDates": [
+      "2027-01",
+      "2027-09"
+    ],
+    "swapNote": null,
+    "feeGbp": 16020,
+    "durationText": "3/4 years",
+    "campus": "University Square Stratford",
+    "campusHeadings": [
+      "University Square Stratford, London, E15 1NF"
+    ],
+    "options": [
+      {
+        "applicant": "Home Applicant ,",
+        "attendance": "Full time,",
+        "years": "3/4 years",
+        "feeText": "Fees:\u00a3 9,790 per year",
+        "feeGbp": 9790
+      },
+      {
+        "applicant": "International Applicant ,",
+        "attendance": "Full time,",
+        "years": "3/4 years",
+        "feeText": "Fees:\u00a3 16,020 per year",
+        "feeGbp": 16020
+      },
+      {
+        "applicant": "Home Applicant ,",
+        "attendance": "Full time,",
+        "years": "3/4 years",
+        "feeText": "Fees:\u00a3 10,050 per year. Subject to change, see Fees, Funding and Additional Costs below",
+        "feeGbp": 10050
+      },
+      {
+        "applicant": "International Applicant ,",
+        "attendance": "Full time,",
+        "years": "3/4 years",
+        "feeText": "Fees:\u00a3 TBC per year",
+        "feeGbp": "TBC"
+      },
+      {
+        "applicant": "Home Applicant ,",
+        "attendance": "Full time,",
+        "years": "4/5 years",
+        "feeText": "Fees:\u00a3 10,050 per year. Subject to change, see Fees, Funding and Additional Costs below",
+        "feeGbp": 10050
+      },
+      {
+        "applicant": "International Applicant ,",
+        "attendance": "Full time,",
+        "years": "4/5 years",
+        "feeText": "Fees:\u00a3 TBC per year",
+        "feeGbp": "TBC"
+      }
+    ],
+    "ielts": [],
+    "acceptedQualifications": [
+      "64 UCAS points from an equivalent Level 3 qualification listed on the UCAS tariff calculator, including:",
+      "A Levels - Must include passes at A2 in at least 1 subjectBTEC Extended Diploma \u2013 MPPBTEC Diploma \u2013 MMAccess to HE DiplomaT LevelsInternational Baccalaureate \u2013 24 points including a minimum of 15 points at Higher Level",
+      "We also welcome applications from students who are taking Level 3 or higher qualifications not on the UCAS tariff calculator and will assess the suitability, on a case-by-case basis.",
+      "In addition to one of the above, you should have:",
+      "GCSE English Grade 4/C or Level 2 Functional Skills in EnglishGCSE Mathematics Grade 4/C or Level 2 Functional Skills in Mathematics"
+    ],
+    "issues": [
+      "JSON-LD start dates are 2027 on a 2026/27 research pass (checked 2026-10-28). September 2026 intake has already started.",
+      "International fee listed as TBC on at least one course option (often foundation/placement variant)."
+    ]
+  },
+  {
+    "kind": "course",
+    "id": "bsc-accounting-finance",
+    "basket": "management-ug",
+    "level": "undergraduate",
+    "subjectFamily": "business",
+    "title": "Accounting and Finance BSc (Hons)",
+    "url": "https://www.uel.ac.uk/undergraduate/courses/bsc-hons-accounting-finance",
+    "checkedOn": "2026-10-28",
+    "collector": "scrapy",
+    "startDates": [
+      "2027-01",
+      "2027-09"
+    ],
+    "swapNote": null,
+    "feeGbp": 16020,
+    "durationText": "3/4 years",
+    "campus": "University Square Stratford",
+    "campusHeadings": [
+      "University Square Stratford, London, E15 1NF"
+    ],
+    "options": [
+      {
+        "applicant": "Home Applicant ,",
+        "attendance": "Full time,",
+        "years": "3/4 years",
+        "feeText": "Fees:\u00a3 9,790 per year",
+        "feeGbp": 9790
+      },
+      {
+        "applicant": "International Applicant ,",
+        "attendance": "Full time,",
+        "years": "3/4 years",
+        "feeText": "Fees:\u00a3 16,020 per year",
+        "feeGbp": 16020
+      },
+      {
+        "applicant": "Home Applicant ,",
+        "attendance": "Full time,",
+        "years": "3/4 years",
+        "feeText": "Fees:\u00a3 10,050 per year. Subject to change, see Fees, Funding and Additional Costs below",
+        "feeGbp": 10050
+      },
+      {
+        "applicant": "International Applicant ,",
+        "attendance": "Full time,",
+        "years": "3/4 years",
+        "feeText": "Fees:\u00a3 TBC per year",
+        "feeGbp": "TBC"
+      },
+      {
+        "applicant": "Home Applicant ,",
+        "attendance": "Full time,",
+        "years": "4/5 years",
+        "feeText": "Fees:\u00a3 10,050 per year. Subject to change, see Fees, Funding and Additional Costs below",
+        "feeGbp": 10050
+      },
+      {
+        "applicant": "International Applicant ,",
+        "attendance": "Full time,",
+        "years": "4/5 years",
+        "feeText": "Fees:\u00a3 TBC per year",
+        "feeGbp": "TBC"
+      }
+    ],
+    "ielts": [],
+    "acceptedQualifications": [],
+    "issues": [
+      "JSON-LD start dates are 2027 on a 2026/27 research pass (checked 2026-10-28). September 2026 intake has already started.",
+      "International fee listed as TBC on at least one course option (often foundation/placement variant)."
+    ]
+  },
+  {
+    "kind": "course",
+    "id": "bsc-accounting-business-management",
+    "basket": "management-ug",
+    "level": "undergraduate",
+    "subjectFamily": "business",
+    "title": "Accounting and Business Management BSc (Hons)",
+    "url": "https://www.uel.ac.uk/undergraduate/courses/bsc-hons-accounting-business-management",
+    "checkedOn": "2026-10-28",
+    "collector": "scrapy",
+    "startDates": [],
+    "swapNote": "No full-length International Business UG found; closest published management title.",
+    "feeGbp": null,
+    "durationText": null,
+    "campus": "University Square Stratford",
+    "campusHeadings": [
+      "University Square Stratford, London, E15 1NF"
+    ],
+    "options": [
+      {
+        "applicant": "Home Applicant ,",
+        "attendance": "Full time",
+        "years": "",
+        "feeText": "Fees:\u00a3 10,050 per year. Subject to change, see Fees, Funding and Additional Costs below",
+        "feeGbp": 10050
+      },
+      {
+        "applicant": "International Applicant ,",
+        "attendance": "Full time",
+        "years": "",
+        "feeText": "Fees:\u00a3 TBC per year",
+        "feeGbp": "TBC"
+      },
+      {
+        "applicant": "Home Applicant ,",
+        "attendance": "Full time,",
+        "years": "4 years",
+        "feeText": "Fees:\u00a3 10,050 per year. Subject to change, see Fees, Funding and Additional Costs below",
+        "feeGbp": 10050
+      },
+      {
+        "applicant": "International Applicant ,",
+        "attendance": "Full time",
+        "years": "",
+        "feeText": "Fees:\u00a3 TBC per year",
+        "feeGbp": "TBC"
+      }
+    ],
+    "ielts": [],
+    "acceptedQualifications": [
+      "64 UCAS points from an equivalent Level 3 qualification listed on the UCAS tariff calculator, including:",
+      "A LevelsBTEC Extended Diploma \u2013 MPPBTEC Diploma \u2013 MMAccess to HE DiplomaT LevelsInternational Baccalaureate \u2013 24 points including a minimum of 15 points at Higher Level",
+      "We also welcome applications from students who are taking Level 3 or higher qualifications not on the UCAS tariff calculator and will assess the suitability, on a case by case basis.",
+      "In addition to one of the above, you should have:",
+      "GCSE English Grade 4/C or Level 2 Functional Skills in EnglishGCSE Mathematics Grade 4/C or Level 2 Functional Skills in Mathematics"
+    ],
+    "issues": [
+      "No full-length International Business UG found; closest published management title.",
+      "Could not parse an international full-time fee from saved HTML.",
+      "International fee listed as TBC on at least one course option (often foundation/placement variant)."
+    ]
+  },
+  {
+    "kind": "course",
+    "id": "bsc-business-economics",
+    "basket": "management-ug",
+    "level": "undergraduate",
+    "subjectFamily": "business",
+    "title": "Business Economics BSc (Hons)",
+    "url": "https://www.uel.ac.uk/undergraduate/courses/bsc-hons-business-economics",
+    "checkedOn": "2026-10-28",
+    "collector": "scrapy",
+    "startDates": [],
+    "swapNote": null,
+    "feeGbp": null,
+    "durationText": null,
+    "campus": "University Square Stratford",
+    "campusHeadings": [
+      "University Square Stratford, London, E15 1NF"
+    ],
+    "options": [
+      {
+        "applicant": "Home Applicant ,",
+        "attendance": "Full time",
+        "years": "",
+        "feeText": "Fees:\u00a3 10,050 per year. Subject to change, see Fees, Funding and Additional Costs below",
+        "feeGbp": 10050
+      },
+      {
+        "applicant": "International Applicant ,",
+        "attendance": "Full time,",
+        "years": "3/4 years",
+        "feeText": "Fees:\u00a3 TBC per year",
+        "feeGbp": "TBC"
+      },
+      {
+        "applicant": "Home Applicant ,",
+        "attendance": "Full time",
+        "years": "",
+        "feeText": "Fees:\u00a3 10,050 per year. Subject to change, see Fees, Funding and Additional Costs below",
+        "feeGbp": 10050
+      },
+      {
+        "applicant": "International Applicant ,",
+        "attendance": "Full time,",
+        "years": "3/4 years",
+        "feeText": "Fees:\u00a3 TBC per year",
+        "feeGbp": "TBC"
+      }
+    ],
+    "ielts": [],
+    "acceptedQualifications": [],
+    "issues": [
+      "Could not parse an international full-time fee from saved HTML.",
+      "International fee listed as TBC on at least one course option (often foundation/placement variant)."
+    ]
+  },
+  {
+    "kind": "course",
+    "id": "msc-international-business-management",
+    "basket": "management-pg",
+    "level": "postgraduate-taught",
+    "subjectFamily": "business",
+    "title": "International Business Management MSc",
+    "url": "https://www.uel.ac.uk/postgraduate/courses/msc-international-business-management",
+    "checkedOn": "2026-10-28",
+    "collector": "scrapy",
+    "startDates": [
+      "2026-09",
+      "2027-01",
+      "2027-05"
+    ],
+    "swapNote": null,
+    "feeGbp": 17700,
+    "durationText": "1 year",
+    "campus": "unknown",
+    "campusHeadings": [],
+    "options": [
+      {
+        "applicant": "Home Applicant ,",
+        "attendance": "Full time,",
+        "years": "1 year",
+        "feeText": "Fees:\u00a3 13320 per year",
+        "feeGbp": 13320
+      },
+      {
+        "applicant": "Home Applicant ,",
+        "attendance": "Part time,",
+        "years": "2 years",
+        "feeText": "Fees:\u00a3 2220 per 30 credit module",
+        "feeGbp": 2220
+      },
+      {
+        "applicant": "International Applicant ,",
+        "attendance": "Full time,",
+        "years": "1/2 years",
+        "feeText": "Fees:\u00a3 17700 per year",
+        "feeGbp": 17700
+      },
+      {
+        "applicant": "Home Applicant ,",
+        "attendance": "Full time,",
+        "years": "2 years",
+        "feeText": "Fees:\u00a3 13320 per year. Year 2 Industrial Placement Fee - \u00a33,500",
+        "feeGbp": 13320
+      },
+      {
+        "applicant": "International Applicant ,",
+        "attendance": "Full time,",
+        "years": "2 years",
+        "feeText": "Fees:\u00a3 17700 per year. Year 2 Industrial Placement Fee - \u00a33,500",
+        "feeGbp": 17700
+      },
+      {
+        "applicant": "Home Applicant ,",
+        "attendance": "Full time,",
+        "years": "1 year",
+        "feeText": "Fees:\u00a3 13,320 per year",
+        "feeGbp": 13320
+      },
+      {
+        "applicant": "International Applicant ,",
+        "attendance": "Full time,",
+        "years": "1 year",
+        "feeText": "Fees:\u00a3 17,700 per year",
+        "feeGbp": 17700
+      },
+      {
+        "applicant": "Home Applicant ,",
+        "attendance": "Full time,",
+        "years": "2 years",
+        "feeText": "Fees:\u00a3 13,320 per year. Year 2 Industrial Placement Fee - \u00a33,500",
+        "feeGbp": 13320
+      },
+      {
+        "applicant": "International Applicant ,",
+        "attendance": "Full time,",
+        "years": "2 years",
+        "feeText": "Fees:\u00a3 17,700 per year. Year 2 Industrial Placement Fee - \u00a33,500",
+        "feeGbp": 17700
+      }
+    ],
+    "ielts": [],
+    "acceptedQualifications": [
+      "Bachelor's degree with minimum Second Class (2:2) or equivalent in any subject from a recognised institution. Level 7 BTEC Extended Diploma in Strategic Management and Leadership with no fails."
+    ],
+    "issues": [
+      "JSON-LD start dates are 2027 on a 2026/27 research pass (checked 2026-10-28). September 2026 intake has already started.",
+      "Campus heading not found on course page."
+    ]
+  },
+  {
+    "kind": "course",
+    "id": "msc-marketing",
+    "basket": "management-pg",
+    "level": "postgraduate-taught",
+    "subjectFamily": "business",
+    "title": "Marketing MSc",
+    "url": "https://www.uel.ac.uk/postgraduate/courses/msc-marketing",
+    "checkedOn": "2026-10-28",
+    "collector": "scrapy",
+    "startDates": [
+      "2026-09",
+      "2027-01"
+    ],
+    "swapNote": null,
+    "feeGbp": 18900,
+    "durationText": "1 year",
+    "campus": "University Square Stratford",
+    "campusHeadings": [
+      "University Square Stratford, London, E15 1NF"
+    ],
+    "options": [
+      {
+        "applicant": "Home Applicant ,",
+        "attendance": "Full time,",
+        "years": "1 year",
+        "feeText": "Fees:\u00a3 13680 per year",
+        "feeGbp": 13680
+      },
+      {
+        "applicant": "Home Applicant ,",
+        "attendance": "Part time,",
+        "years": "2 years",
+        "feeText": "Fees:\u00a3 2280 per 30 credit module",
+        "feeGbp": 2280
+      },
+      {
+        "applicant": "International Applicant ,",
+        "attendance": "Full time,",
+        "years": "1 year",
+        "feeText": "Fees:\u00a3 18900 per year",
+        "feeGbp": 18900
+      },
+      {
+        "applicant": "Home Applicant ,",
+        "attendance": "Full time,",
+        "years": "1 year",
+        "feeText": "Fees:\u00a3 13,680 per year",
+        "feeGbp": 13680
+      },
+      {
+        "applicant": "Home Applicant ,",
+        "attendance": "Part time",
+        "years": "",
+        "feeText": "Fees:\u00a3 2280 per 30 credit module",
+        "feeGbp": 2280
+      },
+      {
+        "applicant": "International Applicant ,",
+        "attendance": "Full time,",
+        "years": "1 year",
+        "feeText": "Fees:\u00a3 18,900 per year",
+        "feeGbp": 18900
+      }
+    ],
+    "ielts": [],
+    "acceptedQualifications": [
+      "Bachelor's degree with minimum Second Class (2:2) or equivalent in any subject."
+    ],
+    "issues": [
+      "JSON-LD start dates are 2027 on a 2026/27 research pass (checked 2026-10-28). September 2026 intake has already started."
+    ]
+  },
+  {
+    "kind": "course",
+    "id": "mba",
+    "basket": "management-pg",
+    "level": "postgraduate-taught",
+    "subjectFamily": "business",
+    "title": "Master of Business Administration MBA",
+    "url": "https://www.uel.ac.uk/postgraduate/courses/mba-master-business-administration",
+    "checkedOn": "2026-10-28",
+    "collector": "scrapy",
+    "startDates": [
+      "2026-09",
+      "2027-01",
+      "2027-05"
+    ],
+    "swapNote": null,
+    "feeGbp": 19500,
+    "durationText": "1/2 years",
+    "campus": "unknown",
+    "campusHeadings": [],
+    "options": [
+      {
+        "applicant": "Home Applicant ,",
+        "attendance": "Full time,",
+        "years": "1/2 years",
+        "feeText": "Fees:\u00a3 14040 per year",
+        "feeGbp": 14040
+      },
+      {
+        "applicant": "Home Applicant ,",
+        "attendance": "Part time,",
+        "years": "2 years",
+        "feeText": "Fees:\u00a3 2340 per 30 credit module",
+        "feeGbp": 2340
+      },
+      {
+        "applicant": "International Applicant ,",
+        "attendance": "Full time,",
+        "years": "1/2 years",
+        "feeText": "Fees:\u00a3 19500 per year",
+        "feeGbp": 19500
+      },
+      {
+        "applicant": "Home Applicant ,",
+        "attendance": "Full time,",
+        "years": "1/2 years",
+        "feeText": "Fees:\u00a3 14040 per year. Year 2 Industrial Placement Fee - \u00a33,500",
+        "feeGbp": 14040
+      },
+      {
+        "applicant": "International Applicant ,",
+        "attendance": "Full time,",
+        "years": "1/2 years",
+        "feeText": "Fees:\u00a3 19500 per year. Year 2 Industrial Placement Fee - \u00a33,500",
+        "feeGbp": 19500
+      },
+      {
+        "applicant": "Home Applicant ,",
+        "attendance": "Full time,",
+        "years": "1/2 years",
+        "feeText": "Fees:\u00a3 14,040 per year",
+        "feeGbp": 14040
+      },
+      {
+        "applicant": "Home Applicant ,",
+        "attendance": "Part time,",
+        "years": "2 years",
+        "feeText": "Fees:\u00a3 2,340 per 30 credit module",
+        "feeGbp": 2340
+      },
+      {
+        "applicant": "International Applicant ,",
+        "attendance": "Full time,",
+        "years": "1/2 years",
+        "feeText": "Fees:\u00a3 19,500 per year",
+        "feeGbp": 19500
+      },
+      {
+        "applicant": "Home Applicant ,",
+        "attendance": "Full time,",
+        "years": "1/2 years",
+        "feeText": "Fees:\u00a3 14,040 per year. Year 2 Industrial Placement Fee - \u00a33,500",
+        "feeGbp": 14040
+      },
+      {
+        "applicant": "International Applicant ,",
+        "attendance": "Full time,",
+        "years": "1/2 years",
+        "feeText": "Fees:\u00a3 19,500 per year. Year 2 Industrial Placement Fee - \u00a33,500",
+        "feeGbp": 19500
+      }
+    ],
+    "ielts": [],
+    "acceptedQualifications": [
+      "Bachelor's degree with minimum Second Class (2:2) or equivalent in any subject."
+    ],
+    "issues": [
+      "JSON-LD start dates are 2027 on a 2026/27 research pass (checked 2026-10-28). September 2026 intake has already started.",
+      "Campus heading not found on course page."
+    ]
+  },
+  {
+    "kind": "course",
+    "id": "msc-human-resource-management",
+    "basket": "management-pg",
+    "level": "postgraduate-taught",
+    "subjectFamily": "business",
+    "title": "Human Resource Management MSc",
+    "url": "https://www.uel.ac.uk/postgraduate/courses/msc-human-resource-management",
+    "checkedOn": "2026-10-28",
+    "collector": "scrapy",
+    "startDates": [
+      "2026-09",
+      "2027-01",
+      "2027-05"
+    ],
+    "swapNote": null,
+    "feeGbp": 17220,
+    "durationText": "1 year",
+    "campus": "University Square Stratford",
+    "campusHeadings": [
+      "University Square Stratford, London, E15 1NF"
+    ],
+    "options": [
+      {
+        "applicant": "Home Applicant ,",
+        "attendance": "Full time,",
+        "years": "1 year",
+        "feeText": "Fees:\u00a3 12960 per year",
+        "feeGbp": 12960
+      },
+      {
+        "applicant": "Home Applicant ,",
+        "attendance": "Part time,",
+        "years": "2 years",
+        "feeText": "Fees:\u00a3 2160 per 30 credit module",
+        "feeGbp": 2160
+      },
+      {
+        "applicant": "International Applicant ,",
+        "attendance": "Full time,",
+        "years": "1 year",
+        "feeText": "Fees:\u00a3 17220 per year",
+        "feeGbp": 17220
+      },
+      {
+        "applicant": "Home Applicant ,",
+        "attendance": "Full time,",
+        "years": "1 year",
+        "feeText": "Fees:\u00a3 12,960 per year",
+        "feeGbp": 12960
+      },
+      {
+        "applicant": "International Applicant ,",
+        "attendance": "Full time,",
+        "years": "1 year",
+        "feeText": "Fees:\u00a3 17,220 per year",
+        "feeGbp": 17220
+      }
+    ],
+    "ielts": [],
+    "acceptedQualifications": [
+      "Bachelor's degree with minimum Second Class (2:2) or equivalent in any subject."
+    ],
+    "issues": [
+      "JSON-LD start dates are 2027 on a 2026/27 research pass (checked 2026-10-28). September 2026 intake has already started."
+    ]
+  },
+  {
+    "kind": "course",
+    "id": "bsc-computer-science",
+    "basket": "also",
+    "level": "undergraduate",
+    "subjectFamily": "computing",
+    "title": "Computer Science BSc (Hons)",
+    "url": "https://www.uel.ac.uk/undergraduate/courses/bsc-hons-computer-science",
+    "checkedOn": "2026-10-28",
+    "collector": "scrapy",
+    "startDates": [
+      "2027-01",
+      "2027-09"
+    ],
+    "swapNote": null,
+    "feeGbp": 16020,
+    "durationText": "3/4 years",
+    "campus": "Docklands",
+    "campusHeadings": [
+      "Docklands Campus, London, E16 2RD"
+    ],
+    "options": [
+      {
+        "applicant": "Home Applicant ,",
+        "attendance": "Full time,",
+        "years": "3/4 years",
+        "feeText": "Fees:\u00a3 9,790 per year",
+        "feeGbp": 9790
+      },
+      {
+        "applicant": "International Applicant ,",
+        "attendance": "Full time,",
+        "years": "3/4 years",
+        "feeText": "Fees:\u00a3 16,020 per year",
+        "feeGbp": 16020
+      },
+      {
+        "applicant": "Home Applicant ,",
+        "attendance": "Full time,",
+        "years": "3 years",
+        "feeText": "Fees:\u00a3 10,050 per year. Subject to change, see fees, funding and additional costs below",
+        "feeGbp": 10050
+      },
+      {
+        "applicant": "Home Applicant ,",
+        "attendance": "Part time",
+        "years": "",
+        "feeText": "Fees:pro-rata full time fee",
+        "feeGbp": null
+      },
+      {
+        "applicant": "International Applicant ,",
+        "attendance": "Full time,",
+        "years": "3 years",
+        "feeText": "Fees:\u00a3 TBC per year",
+        "feeGbp": "TBC"
+      },
+      {
+        "applicant": "Home Applicant ,",
+        "attendance": "Full time,",
+        "years": "4 years",
+        "feeText": "Fees:\u00a3 10,050 per year. Subject to change, see fees, funding and additional costs below",
+        "feeGbp": 10050
+      },
+      {
+        "applicant": "International Applicant ,",
+        "attendance": "Full time,",
+        "years": "4 years",
+        "feeText": "Fees:\u00a3 TBC per year",
+        "feeGbp": "TBC"
+      }
+    ],
+    "ielts": [],
+    "acceptedQualifications": [],
+    "issues": [
+      "JSON-LD start dates are 2027 on a 2026/27 research pass (checked 2026-10-28). September 2026 intake has already started.",
+      "International fee listed as TBC on at least one course option (often foundation/placement variant)."
+    ]
+  },
+  {
+    "kind": "course",
+    "id": "msc-computer-science",
+    "basket": "also",
+    "level": "postgraduate-taught",
+    "subjectFamily": "computing",
+    "title": "Computer Science MSc",
+    "url": "https://www.uel.ac.uk/postgraduate/courses/msc-computer-science",
+    "checkedOn": "2026-10-28",
+    "collector": "scrapy",
+    "startDates": [
+      "2026-09",
+      "2027-01",
+      "2027-05"
+    ],
+    "swapNote": null,
+    "feeGbp": 17220,
+    "durationText": "1 year",
+    "campus": "Docklands",
+    "campusHeadings": [
+      "Docklands Campus, London, E16 2RD"
+    ],
+    "options": [
+      {
+        "applicant": "Home Applicant ,",
+        "attendance": "Full time,",
+        "years": "1/2 years",
+        "feeText": "Fees:\u00a3 11640 per year. Year 2 Industrial Placement Fee - \u00a33,500",
+        "feeGbp": 11640
+      },
+      {
+        "applicant": "Home Applicant ,",
+        "attendance": "Part time",
+        "years": "",
+        "feeText": "Fees:\u00a3 1940 per 30 credit module",
+        "feeGbp": 1940
+      },
+      {
+        "applicant": "International Applicant ,",
+        "attendance": "Full time,",
+        "years": "1/2 years",
+        "feeText": "Fees:\u00a3 17220 per year. Year 2 Industrial Placement Fee - \u00a33,500",
+        "feeGbp": 17220
+      },
+      {
+        "applicant": "Home Applicant ,",
+        "attendance": "Full time,",
+        "years": "1/2 years",
+        "feeText": "Fees:\u00a3 11640 per year. Year 2 Industrial Placement Fee - \u00a33,500",
+        "feeGbp": 11640
+      },
+      {
+        "applicant": "International Applicant ,",
+        "attendance": "Full time,",
+        "years": "1/2 years",
+        "feeText": "Fees:\u00a3 17220 per year. Year 2 Industrial Placement Fee - \u00a33,500",
+        "feeGbp": 17220
+      },
+      {
+        "applicant": "Home Applicant ,",
+        "attendance": "Full time,",
+        "years": "1 year",
+        "feeText": "Fees:\u00a3 11,640 per year",
+        "feeGbp": 11640
+      },
+      {
+        "applicant": "Home Applicant ,",
+        "attendance": "Part time,",
+        "years": "2 years",
+        "feeText": "Fees:\u00a3 1940 per 30 credit module",
+        "feeGbp": 1940
+      },
+      {
+        "applicant": "International Applicant ,",
+        "attendance": "Full time,",
+        "years": "1 year",
+        "feeText": "Fees:\u00a3 17,220 per year",
+        "feeGbp": 17220
+      },
+      {
+        "applicant": "Home Applicant ,",
+        "attendance": "Full time,",
+        "years": "1/2 years",
+        "feeText": "Fees:\u00a3 11,640 per year. Year 2 Industrial Placement Fee - \u00a33500",
+        "feeGbp": 11640
+      },
+      {
+        "applicant": "International Applicant ,",
+        "attendance": "Full time,",
+        "years": "1/2 years",
+        "feeText": "Fees:\u00a3 17,220 per year. Year 2 Industrial Placement Fee - \u00a33500",
+        "feeGbp": 17220
+      },
+      {
+        "applicant": "Home Applicant ,",
+        "attendance": "Full time,",
+        "years": "1 year",
+        "feeText": "Fees:\u00a3 11,340 per year",
+        "feeGbp": 11340
+      },
+      {
+        "applicant": "Home Applicant ,",
+        "attendance": "Part time,",
+        "years": "2 years",
+        "feeText": "Fees:\u00a3 1,890 per 30 credit module",
+        "feeGbp": 1890
+      },
+      {
+        "applicant": "Home Applicant ,",
+        "attendance": "Full time 1-2 years",
+        "years": "",
+        "feeText": "Fees:\u00a3 11,640 per year. Year 2 Industrial Placement Fee - \u00a33500",
+        "feeGbp": 11640
+      }
+    ],
+    "ielts": [],
+    "acceptedQualifications": [
+      "Bachelor's degree with minimum Second Class (2:2) in Computer Science (or equivalent degree with significant maths and computing content)."
+    ],
+    "issues": [
+      "JSON-LD start dates are 2027 on a 2026/27 research pass (checked 2026-10-28). September 2026 intake has already started."
+    ]
+  },
+  {
+    "kind": "course",
+    "id": "msc-data-science",
+    "basket": "also",
+    "level": "postgraduate-taught",
+    "subjectFamily": "computing",
+    "title": "Data Science MSc",
+    "url": "https://www.uel.ac.uk/postgraduate/courses/msc-data-science",
+    "checkedOn": "2026-10-28",
+    "collector": "scrapy",
+    "startDates": [
+      "2026-09",
+      "2027-01"
+    ],
+    "swapNote": null,
+    "feeGbp": 17220,
+    "durationText": "1 year",
+    "campus": "Docklands",
+    "campusHeadings": [
+      "Docklands Campus, London, E16 2RD"
+    ],
+    "options": [
+      {
+        "applicant": "Home Applicant ,",
+        "attendance": "Full time,",
+        "years": "1 year",
+        "feeText": "Fees:\u00a3 10980 per year",
+        "feeGbp": 10980
+      },
+      {
+        "applicant": "International Applicant ,",
+        "attendance": "Full time,",
+        "years": "1 year",
+        "feeText": "Fees:\u00a3 17220 per year",
+        "feeGbp": 17220
+      },
+      {
+        "applicant": "Home Applicant ,",
+        "attendance": "Full time,",
+        "years": "1 year",
+        "feeText": "Fees:\u00a3 10,980 per year",
+        "feeGbp": 10980
+      },
+      {
+        "applicant": "Home Applicant ,",
+        "attendance": "Part time,",
+        "years": "2 years",
+        "feeText": "Fees:\u00a3 1,830 per 30 credit module",
+        "feeGbp": 1830
+      },
+      {
+        "applicant": "International Applicant ,",
+        "attendance": "Full time,",
+        "years": "1 year",
+        "feeText": "Fees:\u00a3 17,220 per year",
+        "feeGbp": 17220
+      }
+    ],
+    "ielts": [],
+    "acceptedQualifications": [
+      "Bachelor's degree with minimum Second Class (2:2) or equivalent in any subject."
+    ],
+    "issues": [
+      "JSON-LD start dates are 2027 on a 2026/27 research pass (checked 2026-10-28). September 2026 intake has already started."
+    ]
+  },
+  {
+    "kind": "course",
+    "id": "beng-civil-engineering",
+    "basket": "also",
+    "level": "undergraduate",
+    "subjectFamily": "engineering",
+    "title": "Civil Engineering BEng (Hons)",
+    "url": "https://www.uel.ac.uk/undergraduate/courses/beng-hons-civil-engineering",
+    "checkedOn": "2026-10-28",
+    "collector": "scrapy",
+    "startDates": [
+      "2027-01",
+      "2027-09"
+    ],
+    "swapNote": null,
+    "feeGbp": 16020,
+    "durationText": "3/4 years",
+    "campus": "Docklands",
+    "campusHeadings": [
+      "Docklands Campus, London, E16 2RD"
+    ],
+    "options": [
+      {
+        "applicant": "Home Applicant ,",
+        "attendance": "Full time,",
+        "years": "3/4 years",
+        "feeText": "Fees:\u00a3 9,790 per year",
+        "feeGbp": 9790
+      },
+      {
+        "applicant": "International Applicant ,",
+        "attendance": "Full time,",
+        "years": "3/4 years",
+        "feeText": "Fees:\u00a3 16,020 per year",
+        "feeGbp": 16020
+      },
+      {
+        "applicant": "Home Applicant ,",
+        "attendance": "Full time,",
+        "years": "3/4 years",
+        "feeText": "Fees:\u00a3 10,050 per year. Subject to change, see fees, funding and additional costs below",
+        "feeGbp": 10050
+      },
+      {
+        "applicant": "Home Applicant ,",
+        "attendance": "Part time",
+        "years": "",
+        "feeText": "Fees:pro-rata full time fee",
+        "feeGbp": null
+      },
+      {
+        "applicant": "International Applicant ,",
+        "attendance": "Full time,",
+        "years": "3/4 years",
+        "feeText": "Fees:\u00a3 TBC per year",
+        "feeGbp": "TBC"
+      },
+      {
+        "applicant": "Home Applicant ,",
+        "attendance": "Full time,",
+        "years": "4/5 years",
+        "feeText": "Fees:\u00a3 10,050 per year. Subject to change, see fees, funding and additional costs below",
+        "feeGbp": 10050
+      },
+      {
+        "applicant": "International Applicant ,",
+        "attendance": "Full time,",
+        "years": "4/5 years",
+        "feeText": "Fees:\u00a3 TBC per year",
+        "feeGbp": "TBC"
+      }
+    ],
+    "ielts": [],
+    "acceptedQualifications": [],
+    "issues": [
+      "JSON-LD start dates are 2027 on a 2026/27 research pass (checked 2026-10-28). September 2026 intake has already started.",
+      "International fee listed as TBC on at least one course option (often foundation/placement variant)."
+    ]
+  },
+  {
+    "kind": "course",
+    "id": "beng-mechanical-engineering",
+    "basket": "also",
+    "level": "undergraduate",
+    "subjectFamily": "engineering",
+    "title": "Mechanical Engineering BEng (Hons)",
+    "url": "https://www.uel.ac.uk/undergraduate/courses/beng-hons-mechanical-engineering",
+    "checkedOn": "2026-10-28",
+    "collector": "scrapy",
+    "startDates": [
+      "2027-09"
+    ],
+    "swapNote": null,
+    "feeGbp": null,
+    "durationText": null,
+    "campus": "Docklands",
+    "campusHeadings": [
+      "Docklands Campus, London, E16 2RD"
+    ],
+    "options": [
+      {
+        "applicant": "Home Applicant ,",
+        "attendance": "Full time,",
+        "years": "3 years",
+        "feeText": "Fees:\u00a3 10,050 per year. Subject to change, see Fees, Funding and Additional Costs below.",
+        "feeGbp": 10050
+      },
+      {
+        "applicant": "Home Applicant ,",
+        "attendance": "Part time",
+        "years": "",
+        "feeText": "Fees:pro-rata full time fee",
+        "feeGbp": null
+      },
+      {
+        "applicant": "International Applicant ,",
+        "attendance": "Full time,",
+        "years": "3/4 years",
+        "feeText": "Fees:\u00a3 TBC per year",
+        "feeGbp": "TBC"
+      },
+      {
+        "applicant": "Home Applicant ,",
+        "attendance": "Full time,",
+        "years": "4/5 years",
+        "feeText": "Fees:\u00a3 10,050 per year. Subject to change, see fees, funding and additional costs below",
+        "feeGbp": 10050
+      },
+      {
+        "applicant": "International Applicant ,",
+        "attendance": "Full time,",
+        "years": "4/5 years",
+        "feeText": "Fees:\u00a3 TBC per year",
+        "feeGbp": "TBC"
+      }
+    ],
+    "ielts": [],
+    "acceptedQualifications": [
+      "64 UCAS points from an equivalent Level 3 qualification listed on the UCAS tariff calculator, including:",
+      "A Levels BTEC Extended Diploma \u2013 MPPBTEC Diploma \u2013 MMAccess to HE Diploma T Levels International Baccalaureate \u2013 24 points including a minimum of 15 points at Higher Level",
+      "We also welcome applications from students who are taking Level 3 or higher qualifications not on the UCAS tariff calculator and will assess the suitability, on a case by case basis.",
+      "In addition to one of the above, you should have:",
+      "GCSE English Grade 4/C or Level 2 Functional Skills in EnglishGCSE Mathematics Grade 4/C or Level 2 Functional Skills in Mathematics"
+    ],
+    "issues": [
+      "JSON-LD start dates are 2027 on a 2026/27 research pass (checked 2026-10-28). September 2026 intake has already started.",
+      "Could not parse an international full-time fee from saved HTML.",
+      "International fee listed as TBC on at least one course option (often foundation/placement variant)."
+    ]
+  },
+  {
+    "kind": "course",
+    "id": "bsc-psychology",
+    "basket": "also",
+    "level": "undergraduate",
+    "subjectFamily": "other",
+    "title": "Psychology BSc (Hons)",
+    "url": "https://www.uel.ac.uk/undergraduate/courses/bsc-hons-psychology",
+    "checkedOn": "2026-10-28",
+    "collector": "scrapy",
+    "startDates": [
+      "2027-09"
+    ],
+    "swapNote": null,
+    "feeGbp": null,
+    "durationText": null,
+    "campus": "Stratford",
+    "campusHeadings": [
+      "Stratford Campus, London, E15 4LZ"
+    ],
+    "options": [
+      {
+        "applicant": "Home Applicant ,",
+        "attendance": "Full time,",
+        "years": "3 years",
+        "feeText": "Fees:\u00a3 10,050 per year. Subject to change, see Fees, Funding and Additional Costs below.",
+        "feeGbp": 10050
+      },
+      {
+        "applicant": "Home Applicant ,",
+        "attendance": "Part time",
+        "years": "",
+        "feeText": "Fees:pro-rata full time fee",
+        "feeGbp": null
+      },
+      {
+        "applicant": "International Applicant ,",
+        "attendance": "Full time,",
+        "years": "3 years",
+        "feeText": "Fees:\u00a3 TBC per year",
+        "feeGbp": "TBC"
+      },
+      {
+        "applicant": "",
+        "attendance": "",
+        "years": "",
+        "feeText": "",
+        "feeGbp": null
+      },
+      {
+        "applicant": "Home Applicant ,",
+        "attendance": "Full time,",
+        "years": "4 years",
+        "feeText": "Fees:\u00a3 10,050 per year. Subject to change, see Fees, Funding and Additional Costs below.",
+        "feeGbp": 10050
+      },
+      {
+        "applicant": "International Applicant ,",
+        "attendance": "Full time,",
+        "years": "4 years",
+        "feeText": "Fees:\u00a3 TBC per year",
+        "feeGbp": "TBC"
+      }
+    ],
+    "ielts": [],
+    "acceptedQualifications": [
+      "64 UCAS points from an equivalent Level 3 qualification listed on the UCAS tariff calculator, including:",
+      "A LevelsBTEC Extended Diploma \u2013 MPPBTEC Diploma \u2013 MMAccess to HE DiplomaT LevelsInternational Baccalaureate \u2013 24 points including a minimum of 15 points at Higher Level.",
+      "We also welcome applications from students who are taking Level 3 or higher qualifications not on the UCAS tariff calculator and will assess the suitability, on a case by case basis.",
+      "In addition to one of the above, you should have:",
+      "GCSE English Grade 4/C or Level 2 Functional Skills in EnglishGCSE Mathematics Grade 4/C or Level 2 Functional Skills in Mathematics\""
+    ],
+    "issues": [
+      "JSON-LD start dates are 2027 on a 2026/27 research pass (checked 2026-10-28). September 2026 intake has already started.",
+      "Could not parse an international full-time fee from saved HTML.",
+      "International fee listed as TBC on at least one course option (often foundation/placement variant)."
+    ]
+  },
+  {
+    "kind": "course",
+    "id": "llb-law",
+    "basket": "also",
+    "level": "undergraduate",
+    "subjectFamily": "law",
+    "title": "Law LLB (Hons)",
+    "url": "https://www.uel.ac.uk/undergraduate/courses/llb-hons-law",
+    "checkedOn": "2026-10-28",
+    "collector": "scrapy",
+    "startDates": [
+      "2027-01",
+      "2027-09"
+    ],
+    "swapNote": null,
+    "feeGbp": 16020,
+    "durationText": "3/4 years",
+    "campus": "University Square Stratford",
+    "campusHeadings": [
+      "University Square Stratford, London, E15 1NF"
+    ],
+    "options": [
+      {
+        "applicant": "Home Applicant ,",
+        "attendance": "Full time,",
+        "years": "3/4 years",
+        "feeText": "Fees:\u00a3 9,790 per year",
+        "feeGbp": 9790
+      },
+      {
+        "applicant": "International Applicant ,",
+        "attendance": "Full time,",
+        "years": "3/4 years",
+        "feeText": "Fees:\u00a3 16,020 per year",
+        "feeGbp": 16020
+      },
+      {
+        "applicant": "Home Applicant ,",
+        "attendance": "Full time,",
+        "years": "3/4 years",
+        "feeText": "Fees:\u00a3 10,050 per year. Subject to change, see Fees, Funding and Additional Costs below",
+        "feeGbp": 10050
+      },
+      {
+        "applicant": "International Applicant ,",
+        "attendance": "Full time,",
+        "years": "3/4 years",
+        "feeText": "Fees:\u00a3 TBC per year",
+        "feeGbp": "TBC"
+      },
+      {
+        "applicant": "Home Applicant ,",
+        "attendance": "Full time,",
+        "years": "4/5 years",
+        "feeText": "Fees:\u00a3 10,050 per year. Subject to change, see Fees, Funding and Additional Costs below",
+        "feeGbp": 10050
+      },
+      {
+        "applicant": "International Applicant ,",
+        "attendance": "Full time,",
+        "years": "3/4 years",
+        "feeText": "Fees:\u00a3 TBC per year",
+        "feeGbp": "TBC"
+      }
+    ],
+    "ielts": [],
+    "acceptedQualifications": [],
+    "issues": [
+      "JSON-LD start dates are 2027 on a 2026/27 research pass (checked 2026-10-28). September 2026 intake has already started.",
+      "International fee listed as TBC on at least one course option (often foundation/placement variant)."
+    ]
+  }
+]

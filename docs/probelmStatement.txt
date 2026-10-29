@@ -1,0 +1,142 @@
+UEL Fit & Scholarship Finder
+
+The Scenario
+We help the University of East London attract students from India. We do this mainly through short videos
+on Instagram and YouTube, posts by social media influencers, and online sessions for parents.
+All of that points students to one place: an online tool called the UEL Fit & Scholarship Finder. A student
+answers a few questions about themselves on their phone. In return, they find out:
+• which UEL course suits them, and whether they appear to meet its entry requirements;
+• what scholarship they could get, and roughly what their first year would really cost;
+
+• what their life as a student in London could look like.
+This is not a course search. The Finder sells UEL to the student, and it does that through two hooks.
+• The scholarship. UEL offers international students money off their tuition fees, whether they are
+starting a bachelor’s or a master’s. For most Indian families, cost is the biggest question, so the
+scholarship is what gets a student to start the Finder and to finish it. Showing them, early and honestly,
+how much they could save turns “I could never afford London” into “maybe I can”.
+• Their life in London. Every university website lists courses and facts. We want the student to see
+themselves there: leaving home, arriving in London, studying their subject, spending their weekends
+on the things they love, and where the degree could take them. Built from their own answers, this is
+what makes them want UEL, not just qualify for it.
+The course match underneath gives them confidence that they could actually get in. Together, the three
+take a student from “just looking” to wanting to apply.
+To see their full results, the student gives us their name and phone number. We then follow up on
+WhatsApp, and one of our advisers calls the students who are most likely to apply, or who need to apply
+soon. With the student’s permission, their details are passed to UEL, who decide whether to offer them a
+place.
+Who uses it, and what they want to know.
+• Students, applying for a bachelor’s or a master’s degree: “Would I get in, can I afford it, and what
+would it lead to?”
+• Parents: “Is it worth the money, and will my child be safe and looked after?”
+• UEL: more good students who actually apply. Many Indian students apply through paid education
+agents, and UEL pays the agent a commission, often £2,000 or more per student. Every student who
+comes through the Finder instead is one UEL does not pay an agent for.
+Things worth knowing.
+• In most Indian families, parents help decide where their child studies, and usually help pay for it.
+• Most students will open the Finder on their phone, straight after watching a short video, knowing little
+about UEL.
+• The same tool will be used for several years, as new courses open and dates and fees change.
+• Only UEL can decide who gets a place and how much scholarship they receive. The Finder can never
+promise a place, a scholarship amount, a visa or a job.
+This is a mock project. The university and its public website are real, and you should use them for your
+research. Everything else is illustrative.
+Your tasks
+Six tasks. Tasks 1 to 4 and 6 are written answers. Task 5 is a small working prototype.
+1. Understanding the student. One or two pages. Describe the student and their parents as people, not
+as users of a tool.
+• What are they hoping for? What would success look like to the student, and to their family?
+• What are they afraid of?
+• What would make them choose UEL over another UK university, or over staying in India?
+
+• Why would they trust a tool like this, or not? What would make them give up halfway?
+• What would make them go on to actually apply?
+2. Research. Gather the information the tool needs, from UEL’s website and the UK government website
+(GOV.UK).
+• At least 15 courses across different subjects: the fee, the campus, the start dates, the entry
+requirements for students from India, and any extra conditions.
+• UEL’s scholarship for international students, and how it works.
+• The cost of living in London for a student, and any other first-year costs a family should know about.
+Collect it by hand or with a scraper, a program that collects information from websites automatically (see
+Tools you can use below), and tell us which you used and how. Every fact needs a link to where you found
+it and the date you checked it. Tell us anything you found that is out of date, contradicts itself, or does not
+apply to students from India.
+3. The questions. Write every question the tool asks, in the order the student sees them. For each one,
+give us:
+• the question, exactly as the student reads it on screen;
+• the answer format: choose one option, choose several options, a dropdown list, a slider or a typed
+answer;
+• every answer option, word for word;
+• who sees it, if not everyone (for example, only students applying for a master’s);
+• why you ask it, and what it changes in the student’s results.
+Then show how the questions are grouped into screens, and tell us:
+• the headline and button on the very first screen;
+• how the student should feel by the time they reach their results, and how the order of your questions
+builds up to that;
+• where you ask for the student’s name and phone number, and why there;
+• how the parents get involved;
+• where the tool could mislead a student, and how you prevent it;
+• what our adviser and UEL should be told about each student, and how you would decide which
+students get a call first;
+• how we could tell which video or influencer brought each student to the tool, and why that is worth
+knowing.
+4. The results page. Write the results page that each of these two students would see after answering the
+questions: the exact words on screen, not a description of them. Its job is to make each student picture
+themselves at UEL and want to go, while staying completely honest.
+• Student A. Lives in Hyderabad. Has finished school (Class 12, CBSE board) with 82%. Wants to
+study computing. Loves football. Has an education loan arranged. Wants to work in the UK after
+graduating.
+
+• Student B. Lives in Kochi. Aged 17 and still in Class 12 (CBSE board), expecting around 75%. Wants
+to study business. Loves food and cooking. Their whole family will make the decision. Worried about
+the cost.
+Each results page should include:
+• a headline;
+• the course that suits them, and whether they appear to meet its entry requirements;
+• the scholarship, and a realistic estimate of the total cost of the first year;
+• the centre of the page: what their life as a student in London could look like, built from what they told
+us about themselves, so that it feels like it was written for them;
+• the next step, and the button that takes them there.
+Keep each page under 300 words. Then write the WhatsApp message Student B could forward to their
+parents, in under 120 words. Nothing can promise what only UEL decides: a place, a scholarship amount,
+a visa or a job.
+Under each piece, add a short note on why it would work on that person: which hopes or worries it speaks
+to, and why it is in that order.
+5. The prototype. A small working version of the tool, on a live link that opens on a phone.
+• Five or six of your questions from task 3, leading to whether the student appears to meet the entry
+requirements, their scholarship and their first-year cost, using your research from task 2.
+• One of your results pages from task 4.
+• The screen where the student gives their details, and what they see after that.
+Build it however you like, with any tool. We are judging what it is like to use, not the code.
+6. Judgement. Using your prototype or your questions from task 3, tell us what each of these people
+would see, and whether that is right:
+• a student still in Class 12 who chooses a master’s degree;
+• a student whose marks are below the entry requirement;
+• a commerce graduate (B.Com) who wants a master’s in computing;
+• a parent who opens a link their child sent them.
+Tools you can use
+You do not need to learn new tools for this. A lot of what this assessment needs already exists as free,
+open-source code on GitHub, and an AI coding tool such as Claude Code can set it up and run it for you.
+Collecting the course information (task 2). You can copy facts by hand, or use a scraper to collect the
+course pages in bulk. Scrapy is a free, open-source scraper: github.com/scrapy/scrapy. Give that link to
+your AI coding tool, tell it which pages you want and what to collect from each, and let it install and run
+Scrapy for you.
+Scrape politely and anonymously: a few pages at a time, follow the site’s robots.txt rules, and never log in
+or use a personal account. A scraper collects old and wrong information as happily as correct information,
+so check every fact against the page itself.
+
+What to submit
+Submit all four to team@edin.world by the deadline above:
+• Tasks 1, 3, 4 and 6 as a single document.
+• Task 2 as a spreadsheet, with a source link and date for every fact, plus a short note on how you
+collected it.
+• The live link to your prototype.
+• A short note listing which AI tools you used, and on what.
+What we are looking for
+• All six tasks fitting together as one tool, not six separate exercises.
+• A real understanding of what these students and their parents want and fear, and writing that makes
+them want it.
+• A clear understanding of who makes the decision, and what would make them act.
+• Research that is accurate, sourced and dated, including what you found to be wrong.
+• A tool that works well on a phone, for someone who has just tapped through from a video.
+• Honesty about the scholarship and the costs.
+• Clear placeholders where something is missing, rather than made-up detail.

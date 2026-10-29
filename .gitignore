@@ -39,3 +39,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# research
+/research/.venv/
+
+# prototype leads (may contain names and phones)
+/data/leads/*.json
+!/data/leads/.gitkeep

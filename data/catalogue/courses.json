@@ -1,0 +1,516 @@
+[
+  {
+    "id": "bsc-business-management",
+    "title": "Business Management BSc (Hons)",
+    "level": "undergraduate",
+    "subjectFamily": "business",
+    "campus": "University Square Stratford",
+    "durationYears": 3,
+    "tuitionGbpYearOne": 16020,
+    "startDates": [
+      "2027-01",
+      "2027-09"
+    ],
+    "indiaEntry": {
+      "qualification": "class-12",
+      "boards": [
+        "CBSE",
+        "ISC",
+        "CICSE",
+        "AISSCE"
+      ],
+      "minPercent": 60,
+      "notes": "India page, live-checked 2026-10-28: HSC / Standard 12 overall 60% (CBSE/CICSE and named state boards). Kerala State Board 65% in Year 12. All other boards 70%. Diploma 55% is a separate route, not used as the Class 12 threshold."
+    },
+    "extraConditions": [
+      "IELTS 5.5 with a minimum of 5.5 in Reading, Writing, Listening and Speaking (or recognised equivalent)."
+    ],
+    "scholarshipEligible": true,
+    "sourceUrl": "https://www.uel.ac.uk/undergraduate/courses/bsc-hons-business-management",
+    "checkedOn": "2026-10-28",
+    "issues": [
+      "JSON-LD start dates on the course page are 2027 (and some 2026-09 / 2027-05 for PGT). Checked 2026-10-28, after the September 2026 teaching start. Fees still match the 2026/27 schedule."
+    ]
+  },
+  {
+    "id": "bsc-marketing",
+    "title": "Marketing BSc (Hons)",
+    "level": "undergraduate",
+    "subjectFamily": "business",
+    "campus": "University Square Stratford",
+    "durationYears": 3,
+    "tuitionGbpYearOne": 16020,
+    "startDates": [
+      "2027-01",
+      "2027-09"
+    ],
+    "indiaEntry": {
+      "qualification": "class-12",
+      "boards": [
+        "CBSE",
+        "ISC",
+        "CICSE",
+        "AISSCE"
+      ],
+      "minPercent": 60,
+      "notes": "India page, live-checked 2026-10-28: HSC / Standard 12 overall 60% (CBSE/CICSE and named state boards). Kerala State Board 65% in Year 12. All other boards 70%. Diploma 55% is a separate route, not used as the Class 12 threshold."
+    },
+    "extraConditions": [
+      "IELTS 5.5 with a minimum of 5.5 in Reading, Writing, Listening and Speaking (or recognised equivalent).",
+      "Page notes CIM professional accreditation; direct entry students only considered for Level 5 admission."
+    ],
+    "scholarshipEligible": true,
+    "sourceUrl": "https://www.uel.ac.uk/undergraduate/courses/bsc-hons-marketing",
+    "checkedOn": "2026-10-28",
+    "issues": [
+      "JSON-LD start dates on the course page are 2027 (and some 2026-09 / 2027-05 for PGT). Checked 2026-10-28, after the September 2026 teaching start. Fees still match the 2026/27 schedule."
+    ]
+  },
+  {
+    "id": "bsc-accounting-finance",
+    "title": "Accounting and Finance BSc (Hons)",
+    "level": "undergraduate",
+    "subjectFamily": "business",
+    "campus": "University Square Stratford",
+    "durationYears": 3,
+    "tuitionGbpYearOne": 16020,
+    "startDates": [
+      "2027-01",
+      "2027-09"
+    ],
+    "indiaEntry": {
+      "qualification": "class-12",
+      "boards": [
+        "CBSE",
+        "ISC",
+        "CICSE",
+        "AISSCE"
+      ],
+      "minPercent": 60,
+      "notes": "India page, live-checked 2026-10-28: HSC / Standard 12 overall 60% (CBSE/CICSE and named state boards). Kerala State Board 65% in Year 12. All other boards 70%. Diploma 55% is a separate route, not used as the Class 12 threshold."
+    },
+    "extraConditions": [
+      "IELTS 5.5 with a minimum of 5.5 in Reading, Writing, Listening and Speaking (or recognised equivalent)."
+    ],
+    "scholarshipEligible": true,
+    "sourceUrl": "https://www.uel.ac.uk/undergraduate/courses/bsc-hons-accounting-finance",
+    "checkedOn": "2026-10-28",
+    "issues": [
+      "JSON-LD start dates on the course page are 2027 (and some 2026-09 / 2027-05 for PGT). Checked 2026-10-28, after the September 2026 teaching start. Fees still match the 2026/27 schedule."
+    ]
+  },
+  {
+    "id": "bsc-accounting-business-management",
+    "title": "Accounting and Business Management BSc (Hons)",
+    "level": "undergraduate",
+    "subjectFamily": "business",
+    "campus": "University Square Stratford",
+    "durationYears": 3,
+    "tuitionGbpYearOne": 16020,
+    "startDates": [],
+    "indiaEntry": {
+      "qualification": "class-12",
+      "boards": [
+        "CBSE",
+        "ISC",
+        "CICSE",
+        "AISSCE"
+      ],
+      "minPercent": 60,
+      "notes": "India page, live-checked 2026-10-28: HSC / Standard 12 overall 60% (CBSE/CICSE and named state boards). Kerala State Board 65% in Year 12. All other boards 70%. Diploma 55% is a separate route, not used as the Class 12 threshold."
+    },
+    "extraConditions": [
+      "IELTS 5.5 with a minimum of 5.5 in Reading, Writing, Listening and Speaking (or recognised equivalent).",
+      "Page states the course is subject to revalidation."
+    ],
+    "scholarshipEligible": true,
+    "sourceUrl": "https://www.uel.ac.uk/undergraduate/courses/bsc-hons-accounting-business-management",
+    "checkedOn": "2026-10-28",
+    "issues": [
+      "Swapped in for International Business UG: UEL publishes International Business Management as a one-year top-up, not a full bachelor's.",
+      "Course page international fee is TBC. Figure taken from UEL Fees Schedule 2026/27 international undergraduate headline £16,020 (all schools except listed nursing exceptions).",
+      "JSON-LD on this page did not list international start dates. Not invented."
+    ]
+  },
+  {
+    "id": "bsc-business-economics",
+    "title": "Business Economics BSc (Hons)",
+    "level": "undergraduate",
+    "subjectFamily": "business",
+    "campus": "University Square Stratford",
+    "durationYears": 3,
+    "tuitionGbpYearOne": 16020,
+    "startDates": [],
+    "indiaEntry": {
+      "qualification": "class-12",
+      "boards": [
+        "CBSE",
+        "ISC",
+        "CICSE",
+        "AISSCE"
+      ],
+      "minPercent": 60,
+      "notes": "India page, live-checked 2026-10-28: HSC / Standard 12 overall 60% (CBSE/CICSE and named state boards). Kerala State Board 65% in Year 12. All other boards 70%. Diploma 55% is a separate route, not used as the Class 12 threshold."
+    },
+    "extraConditions": [
+      "IELTS 5.5 with a minimum of 5.5 in Reading, Writing, Listening and Speaking (or recognised equivalent)."
+    ],
+    "scholarshipEligible": true,
+    "sourceUrl": "https://www.uel.ac.uk/undergraduate/courses/bsc-hons-business-economics",
+    "checkedOn": "2026-10-28",
+    "issues": [
+      "Course page international fee is TBC. Figure taken from UEL Fees Schedule 2026/27 international undergraduate headline £16,020 (all schools except listed nursing exceptions).",
+      "JSON-LD on this page did not list international start dates. Not invented."
+    ]
+  },
+  {
+    "id": "msc-international-business-management",
+    "title": "International Business Management MSc",
+    "level": "postgraduate-taught",
+    "subjectFamily": "business",
+    "campus": "University Square Stratford",
+    "durationYears": 1,
+    "tuitionGbpYearOne": 17700,
+    "startDates": [
+      "2026-09",
+      "2027-01",
+      "2027-05"
+    ],
+    "indiaEntry": {
+      "qualification": "bachelor",
+      "minPercent": 50,
+      "notes": "India page, live-checked 2026-10-28: 50% from listed universities (Delhi, Mumbai, Pune, Kolkata, Chennai, Anna, Bharatiyar, MSU Baroda, Bangalore); 55% from all other recognised institutions."
+    },
+    "extraConditions": [
+      "IELTS 6.0 with a minimum of 6.0 in Writing, Speaking, Reading and Listening (or recognised equivalent).",
+      "Page states you do not need a business background to apply."
+    ],
+    "scholarshipEligible": true,
+    "sourceUrl": "https://www.uel.ac.uk/postgraduate/courses/msc-international-business-management",
+    "checkedOn": "2026-10-28",
+    "issues": [
+      "JSON-LD start dates on the course page are 2027 (and some 2026-09 / 2027-05 for PGT). Checked 2026-10-28, after the September 2026 teaching start. Fees still match the 2026/27 schedule.",
+      "Campus section describes both Docklands and University Square Stratford. USS is stored as the RDSBL/MBA campus named on the page; Docklands is also mentioned."
+    ]
+  },
+  {
+    "id": "msc-marketing",
+    "title": "Marketing MSc",
+    "level": "postgraduate-taught",
+    "subjectFamily": "business",
+    "campus": "University Square Stratford",
+    "durationYears": 1,
+    "tuitionGbpYearOne": 18900,
+    "startDates": [
+      "2026-09",
+      "2027-01"
+    ],
+    "indiaEntry": {
+      "qualification": "bachelor",
+      "minPercent": 50,
+      "notes": "India page, live-checked 2026-10-28: 50% from listed universities (Delhi, Mumbai, Pune, Kolkata, Chennai, Anna, Bharatiyar, MSU Baroda, Bangalore); 55% from all other recognised institutions."
+    },
+    "extraConditions": [
+      "IELTS score of 6 (or recognised equivalent)."
+    ],
+    "scholarshipEligible": true,
+    "sourceUrl": "https://www.uel.ac.uk/postgraduate/courses/msc-marketing",
+    "checkedOn": "2026-10-28",
+    "issues": [
+      "JSON-LD start dates on the course page are 2027 (and some 2026-09 / 2027-05 for PGT). Checked 2026-10-28, after the September 2026 teaching start. Fees still match the 2026/27 schedule."
+    ]
+  },
+  {
+    "id": "mba",
+    "title": "Master of Business Administration MBA",
+    "level": "postgraduate-taught",
+    "subjectFamily": "business",
+    "campus": "University Square Stratford",
+    "durationYears": 1,
+    "tuitionGbpYearOne": 19500,
+    "startDates": [
+      "2026-09",
+      "2027-01",
+      "2027-05"
+    ],
+    "indiaEntry": {
+      "qualification": "bachelor",
+      "minPercent": 50,
+      "notes": "India page, live-checked 2026-10-28: 50% from listed universities (Delhi, Mumbai, Pune, Kolkata, Chennai, Anna, Bharatiyar, MSU Baroda, Bangalore); 55% from all other recognised institutions."
+    },
+    "extraConditions": [
+      "Bachelor's degree with minimum Second Class (2:2) or equivalent in any subject.",
+      "IELTS 6.0 with a minimum of 6.0 in Writing and Speaking; minimum 5.5 in Reading and Listening (or recognised equivalent)."
+    ],
+    "scholarshipEligible": true,
+    "sourceUrl": "https://www.uel.ac.uk/postgraduate/courses/mba-master-business-administration",
+    "checkedOn": "2026-10-28",
+    "issues": [
+      "JSON-LD start dates on the course page are 2027 (and some 2026-09 / 2027-05 for PGT). Checked 2026-10-28, after the September 2026 teaching start. Fees still match the 2026/27 schedule.",
+      "Page says USS is the base for the MBA and also describes an MBA suite at Docklands. Stored campus is University Square Stratford."
+    ]
+  },
+  {
+    "id": "msc-human-resource-management",
+    "title": "Human Resource Management MSc",
+    "level": "postgraduate-taught",
+    "subjectFamily": "business",
+    "campus": "University Square Stratford",
+    "durationYears": 1,
+    "tuitionGbpYearOne": 17220,
+    "startDates": [
+      "2026-09",
+      "2027-01",
+      "2027-05"
+    ],
+    "indiaEntry": {
+      "qualification": "bachelor",
+      "minPercent": 50,
+      "notes": "India page, live-checked 2026-10-28: 50% from listed universities (Delhi, Mumbai, Pune, Kolkata, Chennai, Anna, Bharatiyar, MSU Baroda, Bangalore); 55% from all other recognised institutions."
+    },
+    "extraConditions": [
+      "Bachelor's degree with minimum Second Class (2:2) or equivalent in any subject.",
+      "IELTS 6.0 with a minimum of 6.0 in Writing and Speaking; minimum 5.5 in Reading and Listening (or recognised equivalent)."
+    ],
+    "scholarshipEligible": true,
+    "sourceUrl": "https://www.uel.ac.uk/postgraduate/courses/msc-human-resource-management",
+    "checkedOn": "2026-10-28",
+    "issues": [
+      "JSON-LD start dates on the course page are 2027 (and some 2026-09 / 2027-05 for PGT). Checked 2026-10-28, after the September 2026 teaching start. Fees still match the 2026/27 schedule."
+    ]
+  },
+  {
+    "id": "bsc-computer-science",
+    "title": "Computer Science BSc (Hons)",
+    "level": "undergraduate",
+    "subjectFamily": "computing",
+    "campus": "Docklands",
+    "durationYears": 3,
+    "tuitionGbpYearOne": 16020,
+    "startDates": [
+      "2027-01",
+      "2027-09"
+    ],
+    "indiaEntry": {
+      "qualification": "class-12",
+      "boards": [
+        "CBSE",
+        "ISC",
+        "CICSE",
+        "AISSCE"
+      ],
+      "minPercent": 60,
+      "notes": "India page, live-checked 2026-10-28: HSC / Standard 12 overall 60% (CBSE/CICSE and named state boards). Kerala State Board 65% in Year 12. All other boards 70%. Diploma 55% is a separate route, not used as the Class 12 threshold."
+    },
+    "extraConditions": [
+      "IELTS 5.5 with a minimum of 5.5 in Reading, Writing, Listening and Speaking (or recognised equivalent).",
+      "UK IB tariff on the page requires Mathematics at Higher Level. India page: Year 12 Maths 50% only if the course requires maths."
+    ],
+    "scholarshipEligible": true,
+    "sourceUrl": "https://www.uel.ac.uk/undergraduate/courses/bsc-hons-computer-science",
+    "checkedOn": "2026-10-28",
+    "issues": [
+      "JSON-LD start dates on the course page are 2027 (and some 2026-09 / 2027-05 for PGT). Checked 2026-10-28, after the September 2026 teaching start. Fees still match the 2026/27 schedule."
+    ]
+  },
+  {
+    "id": "msc-computer-science",
+    "title": "Computer Science MSc",
+    "level": "postgraduate-taught",
+    "subjectFamily": "computing",
+    "campus": "Docklands",
+    "durationYears": 1,
+    "tuitionGbpYearOne": 17220,
+    "startDates": [
+      "2026-09",
+      "2027-01",
+      "2027-05"
+    ],
+    "indiaEntry": {
+      "qualification": "bachelor",
+      "minPercent": 50,
+      "notes": "India page, live-checked 2026-10-28: 50% from listed universities (Delhi, Mumbai, Pune, Kolkata, Chennai, Anna, Bharatiyar, MSU Baroda, Bangalore); 55% from all other recognised institutions."
+    },
+    "extraConditions": [
+      "Bachelor's degree with minimum Second Class (2:2) in Computer Science (or equivalent degree with significant maths and computing content).",
+      "IELTS 6.0 with minimum 6.0 in writing and speaking, and 5.5 in listening and reading (or recognised equivalent)."
+    ],
+    "scholarshipEligible": true,
+    "sourceUrl": "https://www.uel.ac.uk/postgraduate/courses/msc-computer-science",
+    "checkedOn": "2026-10-28",
+    "issues": [
+      "JSON-LD start dates on the course page are 2027 (and some 2026-09 / 2027-05 for PGT). Checked 2026-10-28, after the September 2026 teaching start. Fees still match the 2026/27 schedule."
+    ]
+  },
+  {
+    "id": "msc-data-science",
+    "title": "Data Science MSc",
+    "level": "postgraduate-taught",
+    "subjectFamily": "computing",
+    "campus": "Docklands",
+    "durationYears": 1,
+    "tuitionGbpYearOne": 17220,
+    "startDates": [
+      "2026-09",
+      "2027-01"
+    ],
+    "indiaEntry": {
+      "qualification": "bachelor",
+      "minPercent": 50,
+      "notes": "India page, live-checked 2026-10-28: 50% from listed universities (Delhi, Mumbai, Pune, Kolkata, Chennai, Anna, Bharatiyar, MSU Baroda, Bangalore); 55% from all other recognised institutions."
+    },
+    "extraConditions": [
+      "Bachelor's degree with minimum Second Class (2:2) or equivalent in any subject.",
+      "IELTS 6.0 with minimum 6.0 in writing and speaking, and 5.5 in listening and reading (or recognised equivalent).",
+      "Page states this is not a computer science programme; it is methodology-oriented."
+    ],
+    "scholarshipEligible": true,
+    "sourceUrl": "https://www.uel.ac.uk/postgraduate/courses/msc-data-science",
+    "checkedOn": "2026-10-28",
+    "issues": [
+      "JSON-LD start dates on the course page are 2027 (and some 2026-09 / 2027-05 for PGT). Checked 2026-10-28, after the September 2026 teaching start. Fees still match the 2026/27 schedule.",
+      "Any-subject 2:2 on this MSc is different from Computer Science MSc, which asks for a computing degree."
+    ]
+  },
+  {
+    "id": "beng-civil-engineering",
+    "title": "Civil Engineering BEng (Hons)",
+    "level": "undergraduate",
+    "subjectFamily": "engineering",
+    "campus": "Docklands",
+    "durationYears": 3,
+    "tuitionGbpYearOne": 16020,
+    "startDates": [
+      "2027-01",
+      "2027-09"
+    ],
+    "indiaEntry": {
+      "qualification": "class-12",
+      "boards": [
+        "CBSE",
+        "ISC",
+        "CICSE",
+        "AISSCE"
+      ],
+      "minPercent": 60,
+      "notes": "India page, live-checked 2026-10-28: HSC / Standard 12 overall 60% (CBSE/CICSE and named state boards). Kerala State Board 65% in Year 12. All other boards 70%. Diploma 55% is a separate route, not used as the Class 12 threshold.",
+      "subjectConditions": [
+        "HSC Mathematics (Year 12) with 50% or higher (course requires maths)."
+      ]
+    },
+    "extraConditions": [
+      "A Levels must include Mathematics grade C. India page if maths required: HSC Mathematics (Year 12) 50% or higher; Year 10 80%+ if Maths was not taken in Year 12.",
+      "IELTS 6.0 with a minimum of 6.0 in Writing and Speaking; 5.5 in Reading and Listening (or recognised equivalent)."
+    ],
+    "scholarshipEligible": true,
+    "sourceUrl": "https://www.uel.ac.uk/undergraduate/courses/beng-hons-civil-engineering",
+    "checkedOn": "2026-10-28",
+    "issues": [
+      "JSON-LD start dates on the course page are 2027 (and some 2026-09 / 2027-05 for PGT). Checked 2026-10-28, after the September 2026 teaching start. Fees still match the 2026/27 schedule."
+    ]
+  },
+  {
+    "id": "beng-mechanical-engineering",
+    "title": "Mechanical Engineering BEng (Hons)",
+    "level": "undergraduate",
+    "subjectFamily": "engineering",
+    "campus": "Docklands",
+    "durationYears": 3,
+    "tuitionGbpYearOne": 16020,
+    "startDates": [
+      "2027-09"
+    ],
+    "indiaEntry": {
+      "qualification": "class-12",
+      "boards": [
+        "CBSE",
+        "ISC",
+        "CICSE",
+        "AISSCE"
+      ],
+      "minPercent": 60,
+      "notes": "India page, live-checked 2026-10-28: HSC / Standard 12 overall 60% (CBSE/CICSE and named state boards). Kerala State Board 65% in Year 12. All other boards 70%. Diploma 55% is a separate route, not used as the Class 12 threshold.",
+      "subjectConditions": [
+        "HSC Mathematics (Year 12) with 50% or higher (course requires maths)."
+      ]
+    },
+    "extraConditions": [
+      "A Levels must include Mathematics and Physics or Electronics. India page if maths required: HSC Mathematics (Year 12) 50% or higher.",
+      "IELTS 6.0 with a minimum of 6.0 in Writing and Speaking; 5.5 in Listening and Reading (or recognised equivalent)."
+    ],
+    "scholarshipEligible": true,
+    "sourceUrl": "https://www.uel.ac.uk/undergraduate/courses/beng-hons-mechanical-engineering",
+    "checkedOn": "2026-10-28",
+    "issues": [
+      "JSON-LD start dates on the course page are 2027 (and some 2026-09 / 2027-05 for PGT). Checked 2026-10-28, after the September 2026 teaching start. Fees still match the 2026/27 schedule.",
+      "Course page international fee is TBC. Figure taken from UEL Fees Schedule 2026/27 international undergraduate headline £16,020 (all schools except listed nursing exceptions)."
+    ]
+  },
+  {
+    "id": "bsc-psychology",
+    "title": "Psychology BSc (Hons)",
+    "level": "undergraduate",
+    "subjectFamily": "other",
+    "campus": "Stratford",
+    "durationYears": 3,
+    "tuitionGbpYearOne": 16020,
+    "startDates": [
+      "2027-09"
+    ],
+    "indiaEntry": {
+      "qualification": "class-12",
+      "boards": [
+        "CBSE",
+        "ISC",
+        "CICSE",
+        "AISSCE"
+      ],
+      "minPercent": 60,
+      "notes": "India page, live-checked 2026-10-28: HSC / Standard 12 overall 60% (CBSE/CICSE and named state boards). Kerala State Board 65% in Year 12. All other boards 70%. Diploma 55% is a separate route, not used as the Class 12 threshold."
+    },
+    "extraConditions": [
+      "IELTS 6.0 with a minimum of 6.0 in Writing and Speaking; 5.5 in Listening and Reading (or recognised equivalent).",
+      "Page describes the programme as BPS-accredited."
+    ],
+    "scholarshipEligible": true,
+    "sourceUrl": "https://www.uel.ac.uk/undergraduate/courses/bsc-hons-psychology",
+    "checkedOn": "2026-10-28",
+    "issues": [
+      "JSON-LD start dates on the course page are 2027 (and some 2026-09 / 2027-05 for PGT). Checked 2026-10-28, after the September 2026 teaching start. Fees still match the 2026/27 schedule.",
+      "Course page international fee is TBC. Figure taken from UEL Fees Schedule 2026/27 international undergraduate headline £16,020 (all schools except listed nursing exceptions)."
+    ]
+  },
+  {
+    "id": "llb-law",
+    "title": "Law LLB (Hons)",
+    "level": "undergraduate",
+    "subjectFamily": "law",
+    "campus": "University Square Stratford",
+    "durationYears": 3,
+    "tuitionGbpYearOne": 16020,
+    "startDates": [
+      "2027-01",
+      "2027-09"
+    ],
+    "indiaEntry": {
+      "qualification": "class-12",
+      "boards": [
+        "CBSE",
+        "ISC",
+        "CICSE",
+        "AISSCE"
+      ],
+      "minPercent": 60,
+      "notes": "India page, live-checked 2026-10-28: HSC / Standard 12 overall 60% (CBSE/CICSE and named state boards). Kerala State Board 65% in Year 12. All other boards 70%. Diploma 55% is a separate route, not used as the Class 12 threshold."
+    },
+    "extraConditions": [
+      "IELTS 6.0 with a minimum of 6.0 in Writing and Speaking; 5.5 in Listening and Reading (or recognised equivalent)."
+    ],
+    "scholarshipEligible": true,
+    "sourceUrl": "https://www.uel.ac.uk/undergraduate/courses/llb-hons-law",
+    "checkedOn": "2026-10-28",
+    "issues": [
+      "JSON-LD start dates on the course page are 2027 (and some 2026-09 / 2027-05 for PGT). Checked 2026-10-28, after the September 2026 teaching start. Fees still match the 2026/27 schedule."
+    ]
+  }
+]

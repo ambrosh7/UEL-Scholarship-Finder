@@ -1,36 +1,61 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# UEL Fit & Scholarship Finder
 
-## Getting Started
+A phone-first tool that matches an Indian student to a UEL course, shows an honest scholarship range and first-year cost, and captures a lead. Academic year **2026/27**.
 
-First, run the development server:
+This repo is at **Phase 6**: live prototype plus the written pack (Tasks 1, 3, 4, 6) in [`docs/written-pack.md`](docs/written-pack.md). Same `match()` throughout. Default happy path is **Student A’s result shape**. Task 1 is a draft from the locked fact sheet for Ambrosh to rewrite. Phase 7 is the live URL, Task 2 workbook, and AI-tools note.
+
+## Run locally
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) on a phone, or use a ~390px viewport on desktop.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+UTM example (captured on first landing, kept until lead submit):
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+[http://localhost:3000/?utm_source=instagram&utm_medium=reel&utm_campaign=reel-april&utm_content=creator-priya](http://localhost:3000/?utm_source=instagram&utm_medium=reel&utm_campaign=reel-april&utm_content=creator-priya)
 
-## Learn More
+After the gate, a parent can open `/p/[id]` with no extra questions.
 
-To learn more about Next.js, take a look at the following resources:
+## Checks
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```bash
+npm test
+npm run typecheck
+npm run validate
+npm run lint
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+`npm test` covers the Phase 2 engine, the Phase 3 question freeze, Phase 4 locked copy, the Phase 5 prototype slice, and the Phase 6 pack (it holds 1, 3, 4 and 6, and Task 6 matches live `match()`).
 
-## Deploy on Vercel
+Question spec: [`docs/questions.md`](docs/questions.md).
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+`npm run validate` checks `data/catalogue/*.json` and `sources.csv` against the domain types. `PLACEHOLDER` is allowed. Invented numbers are not.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Visa, IHS and London living are **PLACEHOLDER** until the GOV.UK spot-check. Paste those into the yellow cells on the GOV.UK tab of `data/catalogue/task2-sources.xlsx`.
+
+To re-run the polite UEL scrape (obeys robots.txt, never logs in):
+
+```bash
+cd research
+python3 -m venv .venv
+.venv/bin/pip install -r requirements.txt
+.venv/bin/scrapy crawl uel_pages
+.venv/bin/python build_catalogue.py
+```
+
+## Layout
+
+```
+src/app/           landing, /find, /results, /thanks, /p/[id], lead API
+src/domain/        match engine, scholarship, cost, copy, honesty, priority, frozen questions
+docs/questions.md  Task 3 spec — exact on-screen wording
+docs/written-pack.md  Phase 6 submission draft (Tasks 1, 3, 4, 6)
+src/components/    phone shell, wizard, results, parent view
+data/catalogue/    courses, scholarships, costs, sources
+data/raw/          scraper output (Phase 1)
+data/copy/         locked Task 4 pages (`results-a.md`, `results-b.md`, `whatsapp-b.md`)
+data/leads/        local prototype leads (gitignored JSON)
+```

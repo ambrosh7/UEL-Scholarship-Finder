@@ -1,0 +1,20 @@
+{
+  "academicYear": "2026/27",
+  "londonLivingGbp": "PLACEHOLDER",
+  "visaGbp": "PLACEHOLDER",
+  "ihsGbp": "PLACEHOLDER",
+  "depositGbp": 1500,
+  "accommodationGbp": 8010,
+  "flightsGbp": "PLACEHOLDER",
+  "inrPerGbp": 126.4657,
+  "inrSourceUrl": "https://www.rbi.org.in/",
+  "notes": [
+    "Visa, IHS and London living/maintenance are PLACEHOLDER until Ambrosh spot-checks GOV.UK.",
+    "Tuition deposit: £1,500 starts pre-CAS checks; the full deposit is in the offer letter and a further payment is required for CAS. Source: paying-your-fees-international-students, 2026-10-28.",
+    "Typical room: East standard full academic year 12/09/2026–06/06/2027, £8,010 (£210/week). Range on the same page: West standard £182/week in the room table vs intro/FAQ 'from £189/week'. Halls security deposit £250.",
+    "Flights India → London not sourced. PLACEHOLDER.",
+    "INR snapshot: RBI reference INR 126.4657 per GBP as at 1.00pm 28 Oct 2026 (source FBIL on the RBI homepage). Not live FX."
+  ],
+  "sourceUrl": "https://www.uel.ac.uk/study/fees-funding/international-fees-funding",
+  "checkedOn": "2026-10-28"
+}

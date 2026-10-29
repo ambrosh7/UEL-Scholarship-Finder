@@ -1,0 +1,588 @@
+[
+{
+  "kind": "course",
+  "id": "bsc-business-management",
+  "basket": "management-ug",
+  "level": "undergraduate",
+  "subjectFamily": "business",
+  "title": "Business Management BSc (Hons)",
+  "url": "https://www.uel.ac.uk/undergraduate/courses/bsc-hons-business-management",
+  "checkedOn": "2026-10-28",
+  "collector": "scrapy",
+  "feeGbp": null,
+  "durationText": null,
+  "startDates": [
+    "2027-01",
+    "2027-09"
+  ],
+  "campus": "University Square Stratford",
+  "campusHeadings": [
+    "What can I do with this degree?",
+    "University Square Stratford, London, E15 1NF"
+  ],
+  "options": [],
+  "ielts": [],
+  "acceptedQualifications": [],
+  "issues": [
+    "Could not parse an international full-time fee.",
+    "JSON-LD start dates are 2027 on a 2026/27 research pass (checked 2026-10-28). September 2026 intake has already started."
+  ],
+  "swapNote": null
+},
+{
+  "kind": "course",
+  "id": "bsc-marketing",
+  "basket": "management-ug",
+  "level": "undergraduate",
+  "subjectFamily": "business",
+  "title": "Marketing BSc (Hons)",
+  "url": "https://www.uel.ac.uk/undergraduate/courses/bsc-hons-marketing",
+  "checkedOn": "2026-10-28",
+  "collector": "scrapy",
+  "feeGbp": null,
+  "durationText": null,
+  "startDates": [
+    "2027-01",
+    "2027-09"
+  ],
+  "campus": "University Square Stratford",
+  "campusHeadings": [
+    "Accepted Qualifications",
+    "International Qualifications",
+    "What can I do with this degree?",
+    "University Square Stratford, London, E15 1NF"
+  ],
+  "options": [],
+  "ielts": [],
+  "acceptedQualifications": [
+    "64 UCAS points from an equivalent Level 3 qualification listed on the",
+    ", including:"
+  ],
+  "issues": [
+    "Could not parse an international full-time fee.",
+    "JSON-LD start dates are 2027 on a 2026/27 research pass (checked 2026-10-28). September 2026 intake has already started."
+  ],
+  "swapNote": null
+},
+{
+  "kind": "course",
+  "id": "bsc-accounting-finance",
+  "basket": "management-ug",
+  "level": "undergraduate",
+  "subjectFamily": "business",
+  "title": "Accounting and Finance BSc (Hons)",
+  "url": "https://www.uel.ac.uk/undergraduate/courses/bsc-hons-accounting-finance",
+  "checkedOn": "2026-10-28",
+  "collector": "scrapy",
+  "feeGbp": null,
+  "durationText": null,
+  "startDates": [
+    "2027-01",
+    "2027-09"
+  ],
+  "campus": "University Square Stratford",
+  "campusHeadings": [
+    "What our students say",
+    "What can I do with this degree?",
+    "University Square Stratford, London, E15 1NF"
+  ],
+  "options": [],
+  "ielts": [],
+  "acceptedQualifications": [],
+  "issues": [
+    "Could not parse an international full-time fee.",
+    "JSON-LD start dates are 2027 on a 2026/27 research pass (checked 2026-10-28). September 2026 intake has already started."
+  ],
+  "swapNote": null
+},
+{
+  "kind": "course",
+  "id": "bsc-accounting-business-management",
+  "basket": "management-ug",
+  "level": "undergraduate",
+  "subjectFamily": "business",
+  "title": "Accounting and Business Management BSc (Hons)",
+  "url": "https://www.uel.ac.uk/undergraduate/courses/bsc-hons-accounting-business-management",
+  "checkedOn": "2026-10-28",
+  "collector": "scrapy",
+  "feeGbp": null,
+  "durationText": null,
+  "startDates": [],
+  "campus": "University Square Stratford",
+  "campusHeadings": [
+    "Accepted Qualifications",
+    "International Qualifications",
+    "What can I do with this degree?",
+    "University Square Stratford, London, E15 1NF"
+  ],
+  "options": [],
+  "ielts": [],
+  "acceptedQualifications": [
+    "64 UCAS points from an equivalent Level 3 qualification listed on the",
+    ", including:"
+  ],
+  "issues": [
+    "No full-length International Business UG found; closest published management title.",
+    "Could not parse an international full-time fee."
+  ],
+  "swapNote": "No full-length International Business UG found; closest published management title."
+},
+{
+  "kind": "course",
+  "id": "bsc-business-economics",
+  "basket": "management-ug",
+  "level": "undergraduate",
+  "subjectFamily": "business",
+  "title": "Business Economics BSc (Hons)",
+  "url": "https://www.uel.ac.uk/undergraduate/courses/bsc-hons-business-economics",
+  "checkedOn": "2026-10-28",
+  "collector": "scrapy",
+  "feeGbp": null,
+  "durationText": null,
+  "startDates": [],
+  "campus": "University Square Stratford",
+  "campusHeadings": [
+    "What can I do with this degree?",
+    "University Square Stratford, London, E15 1NF"
+  ],
+  "options": [],
+  "ielts": [],
+  "acceptedQualifications": [],
+  "issues": [
+    "Could not parse an international full-time fee."
+  ],
+  "swapNote": null
+},
+{
+  "kind": "course",
+  "id": "msc-international-business-management",
+  "basket": "management-pg",
+  "level": "postgraduate-taught",
+  "subjectFamily": "business",
+  "title": "International Business Management MSc",
+  "url": "https://www.uel.ac.uk/postgraduate/courses/msc-international-business-management",
+  "checkedOn": "2026-10-28",
+  "collector": "scrapy",
+  "feeGbp": null,
+  "durationText": null,
+  "startDates": [
+    "2026-09",
+    "2027-01",
+    "2027-05"
+  ],
+  "campus": "unknown",
+  "campusHeadings": [
+    "Accepted Qualifications",
+    "International Qualifications",
+    "Accepted Qualifications",
+    "International Qualifications"
+  ],
+  "options": [],
+  "ielts": [],
+  "acceptedQualifications": [
+    "Bachelor's degree with minimum Second Class (2:2) or equivalent in any subject from a recognised institution. Level 7 BTEC Extended Diploma in Strategic Management and Leadership with no fails.",
+    "Bachelor's degree with minimum Second Class (2:2) or equivalent in any subject from a recognised institution. Level 7 BTEC Extended Diploma in Strategic Management and Leadership with no fails."
+  ],
+  "issues": [
+    "Campus heading not found on course page.",
+    "Could not parse an international full-time fee.",
+    "JSON-LD start dates are 2027 on a 2026/27 research pass (checked 2026-10-28). September 2026 intake has already started."
+  ],
+  "swapNote": null
+},
+{
+  "kind": "course",
+  "id": "msc-marketing",
+  "basket": "management-pg",
+  "level": "postgraduate-taught",
+  "subjectFamily": "business",
+  "title": "Marketing MSc",
+  "url": "https://www.uel.ac.uk/postgraduate/courses/msc-marketing",
+  "checkedOn": "2026-10-28",
+  "collector": "scrapy",
+  "feeGbp": null,
+  "durationText": null,
+  "startDates": [
+    "2026-09",
+    "2027-01"
+  ],
+  "campus": "University Square Stratford",
+  "campusHeadings": [
+    "Accepted Qualifications",
+    "International Qualifications",
+    "University Square Stratford, London, E15 1NF"
+  ],
+  "options": [],
+  "ielts": [],
+  "acceptedQualifications": [
+    "Bachelor's degree with minimum Second Class (2:2) or equivalent in any subject."
+  ],
+  "issues": [
+    "Could not parse an international full-time fee.",
+    "JSON-LD start dates are 2027 on a 2026/27 research pass (checked 2026-10-28). September 2026 intake has already started."
+  ],
+  "swapNote": null
+},
+{
+  "kind": "course",
+  "id": "mba",
+  "basket": "management-pg",
+  "level": "postgraduate-taught",
+  "subjectFamily": "business",
+  "title": "Master of Business Administration MBA",
+  "url": "https://www.uel.ac.uk/postgraduate/courses/mba-master-business-administration",
+  "checkedOn": "2026-10-28",
+  "collector": "scrapy",
+  "feeGbp": null,
+  "durationText": null,
+  "startDates": [
+    "2026-09",
+    "2027-01",
+    "2027-05"
+  ],
+  "campus": "unknown",
+  "campusHeadings": [
+    "Accepted Qualifications",
+    "International Qualifications",
+    "Accepted Qualifications",
+    "International Qualifications"
+  ],
+  "options": [],
+  "ielts": [],
+  "acceptedQualifications": [
+    "Bachelor's degree with minimum Second Class (2:2) or equivalent in any subject.",
+    "Bachelor's degree with minimum Second Class (2:2) or equivalent in any subject."
+  ],
+  "issues": [
+    "Campus heading not found on course page.",
+    "Could not parse an international full-time fee.",
+    "JSON-LD start dates are 2027 on a 2026/27 research pass (checked 2026-10-28). September 2026 intake has already started."
+  ],
+  "swapNote": null
+},
+{
+  "kind": "course",
+  "id": "msc-human-resource-management",
+  "basket": "management-pg",
+  "level": "postgraduate-taught",
+  "subjectFamily": "business",
+  "title": "Human Resource Management MSc",
+  "url": "https://www.uel.ac.uk/postgraduate/courses/msc-human-resource-management",
+  "checkedOn": "2026-10-28",
+  "collector": "scrapy",
+  "feeGbp": null,
+  "durationText": null,
+  "startDates": [
+    "2026-09",
+    "2027-01",
+    "2027-05"
+  ],
+  "campus": "University Square Stratford",
+  "campusHeadings": [
+    "Accepted Qualifications",
+    "International Qualifications",
+    "University Square Stratford, London, E15 1NF"
+  ],
+  "options": [],
+  "ielts": [],
+  "acceptedQualifications": [
+    "Bachelor's degree with minimum Second Class (2:2) or equivalent in any subject."
+  ],
+  "issues": [
+    "Could not parse an international full-time fee.",
+    "JSON-LD start dates are 2027 on a 2026/27 research pass (checked 2026-10-28). September 2026 intake has already started."
+  ],
+  "swapNote": null
+},
+{
+  "kind": "course",
+  "id": "bsc-computer-science",
+  "basket": "also",
+  "level": "undergraduate",
+  "subjectFamily": "computing",
+  "title": "Computer Science BSc (Hons)",
+  "url": "https://www.uel.ac.uk/undergraduate/courses/bsc-hons-computer-science",
+  "checkedOn": "2026-10-28",
+  "collector": "scrapy",
+  "feeGbp": null,
+  "durationText": null,
+  "startDates": [
+    "2027-01",
+    "2027-09"
+  ],
+  "campus": "Docklands",
+  "campusHeadings": [
+    "What can I do with this degree?",
+    "Docklands Campus, London, E16 2RD"
+  ],
+  "options": [],
+  "ielts": [],
+  "acceptedQualifications": [],
+  "issues": [
+    "Could not parse an international full-time fee.",
+    "JSON-LD start dates are 2027 on a 2026/27 research pass (checked 2026-10-28). September 2026 intake has already started."
+  ],
+  "swapNote": null
+},
+{
+  "kind": "course",
+  "id": "msc-computer-science",
+  "basket": "also",
+  "level": "postgraduate-taught",
+  "subjectFamily": "computing",
+  "title": "Computer Science MSc",
+  "url": "https://www.uel.ac.uk/postgraduate/courses/msc-computer-science",
+  "checkedOn": "2026-10-28",
+  "collector": "scrapy",
+  "feeGbp": null,
+  "durationText": null,
+  "startDates": [
+    "2026-09",
+    "2027-01",
+    "2027-05"
+  ],
+  "campus": "Docklands",
+  "campusHeadings": [
+    "Accepted Qualifications",
+    "International Qualifications",
+    "Accepted Qualifications",
+    "International Qualifications",
+    "Docklands Campus, London, E16 2RD"
+  ],
+  "options": [],
+  "ielts": [],
+  "acceptedQualifications": [
+    "Bachelor's degree with minimum Second Class (2:2) in Computer Science (or equivalent degree with significant maths and computing content).",
+    "Bachelor's degree with minimum Second Class (2:2) in Computer Science (or equivalent degree with significant maths and computing content)."
+  ],
+  "issues": [
+    "Could not parse an international full-time fee.",
+    "JSON-LD start dates are 2027 on a 2026/27 research pass (checked 2026-10-28). September 2026 intake has already started."
+  ],
+  "swapNote": null
+},
+{
+  "kind": "course",
+  "id": "msc-data-science",
+  "basket": "also",
+  "level": "postgraduate-taught",
+  "subjectFamily": "computing",
+  "title": "Data Science MSc",
+  "url": "https://www.uel.ac.uk/postgraduate/courses/msc-data-science",
+  "checkedOn": "2026-10-28",
+  "collector": "scrapy",
+  "feeGbp": null,
+  "durationText": null,
+  "startDates": [
+    "2026-09",
+    "2027-01"
+  ],
+  "campus": "Docklands",
+  "campusHeadings": [
+    "Accepted Qualifications",
+    "International Qualifications",
+    "Docklands Campus, London, E16 2RD"
+  ],
+  "options": [],
+  "ielts": [],
+  "acceptedQualifications": [
+    "Bachelor's degree with minimum Second Class (2:2) or equivalent in any subject."
+  ],
+  "issues": [
+    "Could not parse an international full-time fee.",
+    "JSON-LD start dates are 2027 on a 2026/27 research pass (checked 2026-10-28). September 2026 intake has already started."
+  ],
+  "swapNote": null
+},
+{
+  "kind": "course",
+  "id": "beng-civil-engineering",
+  "basket": "also",
+  "level": "undergraduate",
+  "subjectFamily": "engineering",
+  "title": "Civil Engineering BEng (Hons)",
+  "url": "https://www.uel.ac.uk/undergraduate/courses/beng-hons-civil-engineering",
+  "checkedOn": "2026-10-28",
+  "collector": "scrapy",
+  "feeGbp": null,
+  "durationText": null,
+  "startDates": [
+    "2027-01",
+    "2027-09"
+  ],
+  "campus": "Docklands",
+  "campusHeadings": [
+    "What can I do with this degree?",
+    "Docklands Campus, London, E16 2RD"
+  ],
+  "options": [],
+  "ielts": [],
+  "acceptedQualifications": [],
+  "issues": [
+    "Could not parse an international full-time fee.",
+    "JSON-LD start dates are 2027 on a 2026/27 research pass (checked 2026-10-28). September 2026 intake has already started."
+  ],
+  "swapNote": null
+},
+{
+  "kind": "course",
+  "id": "beng-mechanical-engineering",
+  "basket": "also",
+  "level": "undergraduate",
+  "subjectFamily": "engineering",
+  "title": "Mechanical Engineering BEng (Hons)",
+  "url": "https://www.uel.ac.uk/undergraduate/courses/beng-hons-mechanical-engineering",
+  "checkedOn": "2026-10-28",
+  "collector": "scrapy",
+  "feeGbp": null,
+  "durationText": null,
+  "startDates": [
+    "2027-09"
+  ],
+  "campus": "Docklands",
+  "campusHeadings": [
+    "Accepted Qualifications",
+    "International Qualifications",
+    "What can I do with this degree?",
+    "Docklands Campus, London, E16 2RD"
+  ],
+  "options": [],
+  "ielts": [],
+  "acceptedQualifications": [
+    "64 UCAS points from an equivalent Level 3 qualification listed on the",
+    ", including:"
+  ],
+  "issues": [
+    "Could not parse an international full-time fee.",
+    "JSON-LD start dates are 2027 on a 2026/27 research pass (checked 2026-10-28). September 2026 intake has already started."
+  ],
+  "swapNote": null
+},
+{
+  "kind": "course",
+  "id": "bsc-psychology",
+  "basket": "also",
+  "level": "undergraduate",
+  "subjectFamily": "other",
+  "title": "Psychology BSc (Hons)",
+  "url": "https://www.uel.ac.uk/undergraduate/courses/bsc-hons-psychology",
+  "checkedOn": "2026-10-28",
+  "collector": "scrapy",
+  "feeGbp": null,
+  "durationText": null,
+  "startDates": [
+    "2027-09"
+  ],
+  "campus": "Stratford",
+  "campusHeadings": [
+    "Accepted Qualifications",
+    "International Qualifications",
+    "What can I do with this degree?",
+    "Stratford Campus, London, E15 4LZ"
+  ],
+  "options": [],
+  "ielts": [],
+  "acceptedQualifications": [
+    "64 UCAS points from an equivalent Level 3 qualification listed on the",
+    ", including:"
+  ],
+  "issues": [
+    "Could not parse an international full-time fee.",
+    "JSON-LD start dates are 2027 on a 2026/27 research pass (checked 2026-10-28). September 2026 intake has already started."
+  ],
+  "swapNote": null
+},
+{
+  "kind": "course",
+  "id": "llb-law",
+  "basket": "also",
+  "level": "undergraduate",
+  "subjectFamily": "law",
+  "title": "Law LLB (Hons)",
+  "url": "https://www.uel.ac.uk/undergraduate/courses/llb-hons-law",
+  "checkedOn": "2026-10-28",
+  "collector": "scrapy",
+  "feeGbp": null,
+  "durationText": null,
+  "startDates": [
+    "2027-01",
+    "2027-09"
+  ],
+  "campus": "University Square Stratford",
+  "campusHeadings": [
+    "What can I do with this degree?",
+    "University Square Stratford, London, E15 1NF"
+  ],
+  "options": [],
+  "ielts": [],
+  "acceptedQualifications": [],
+  "issues": [
+    "Could not parse an international full-time fee.",
+    "JSON-LD start dates are 2027 on a 2026/27 research pass (checked 2026-10-28). September 2026 intake has already started."
+  ],
+  "swapNote": null
+},
+{
+  "kind": "scholarship",
+  "id": "international-scholarships",
+  "url": "https://www.uel.ac.uk/study/fees-funding/international-fees-funding/international-scholarships",
+  "checkedOn": "2026-10-28",
+  "collector": "scrapy",
+  "title": "International scholarships",
+  "text": "Search Category Category Category All results Courses People News Events International scholarships Animations on Animations on Find out how our international scholarships work and see what scholarships are on offer for your studies. Hero Carousel Find out how our international scholarships work and see what scholarships are on offer for your studies. International scholarships You do not need to apply for an international scholarship. (Please note, this page is not applicable for UK students) When you apply for an eligible course and receive an offer, we automatically check whether you qualify for an international scholarship (or discount). If you are eligible, we will include the scholarship amount in your offer letter. How it works Apply for your course as normal. We assess you automatically after you receive an offer. If you qualify, the scholarship is shown in your offer letter. The award is taken off your first-year tuition fee. To be considered, your course application must be complete, including your personal statement and supporting documents. Scholarship amount Scholarships range from £500 to £5,000 off your first-year tuition fees. The amount depends on your course. Awards are made at the University’s discretion. Courses not covered International scholarships are not available for: Short courses or exchange/study abroad programmes Franchised programmes Pre-Masters programmes International Foundation programmes Pre-sessional English programmes Questions? Email our International Office: international@uel.ac.uk Quick links Fees and funding Funding calculator Early payment discount Pay your tuition fees in full and save 5 per cent on your course fees with UEL’s Early Payment Discount . Other scholarships accepted by UEL We also welcome students funded by external schemes, including: Chevening Scholarships ( apply through Chevening ). Commonwealth Scholarships Commission ( apply through the Commission ). If you are unsure whether we accept a scholarship, email international@uel.ac.uk . International scholarship FAQs Accordion Do I need to apply separately for an international scholarship? No. You only need to apply for your course. Once you receive an offer, we automatically assess your eligibility and confirm any award in your offer letter. Accordion When will I find out if I have a scholarship? After we make you an offer, and you have submitted a complete course application. If you qualify, the amount will appear in your offer letter. Accordion How much scholarship funding could I get? Awards range from £500 to £5,000 off your first-year tuition fee. The exact amount depends on your course. Accordion Are all UEL courses eligible for scholarships? Scholarships are not available for short courses, exchange/study abroad programmes, franchised programmes, Pre-Masters, International Foundation, or pre-sessional English courses. Accordion I have funding from Chevening or another provider. Can I use it at UEL? Yes, UEL accepts a range of external scholarships, including Chevening and Commonwealth schemes. You apply through those organisations, not through UEL. Email international@uel.ac.uk if you want us to confirm a specific award. Find out what UEL has to offer you Why University of East London? Discover how the University of East London prepares students for future careers with industry-aligned courses, career coaching, and a Career Passport to showcase skills. Cost of Living Support Regardless of your financial situation, we’re committed to make studying in London possible for everyone and providing our students with support throughout their university experience. Fees and funding Get information on university fees and how to pay for university tuition. Explore student finance and funding options for your university degree in London. Contact the International office Contact our regional recruitment team based on your current location to learn more about studying at UEL before you apply or discuss an existing application. We’d love to hear what you think! Your feedback helps us improve the experience for future students around the world. It only takes a minute to share your thoughts! Share your feedback"
+},
+{
+  "kind": "india-entry",
+  "id": "india-entry",
+  "url": "https://www.uel.ac.uk/international/guidance-your-region/south-asia/india",
+  "checkedOn": "2026-10-28",
+  "collector": "scrapy",
+  "title": "India",
+  "text": "Search Category Category Category All results Courses People News Events India On this page Overview Course modules Entry requirements What makes this course different Accreditations Course options What we're researching Your future career How we support your career ambitions Careers Guarantee What you'll learn DiscoverUni How you'll learn How you'll be assessed Campus and facilities Who teaches this course Testimonial FAQs Related courses Why choose UEL? UEL is among the UK’s top 40 universities in the Guardian University Guide 2027, and London’s highest-ranked modern university. We’ve also climbed 42 places for career prospects in a single year, because every course we design has one goal: your success after graduation. Affordable London experience: Tuition fees and accommodation costs are lower than at many UK universities, with scholarships available on most courses. IELTS waivers available: We accept a Medium of Instruction (MOI) letter as an alternative to IELTS for recent graduates who meet our entry requirements. Traditional campus, urban access: Study in East London on a close-knit campus, with direct Tube links to central London in around 35 minutes. Careers-first learning: Our courses combine academic study with real-world experience, including work placements where available. Placement year options: Selected postgraduate courses include a placement year to help build practical experience and employability. Top-ranked student experience: Ranked #1 in London for student experience in the National Student Survey (NSS) 2024. Recognised teaching quality: Named University of the Year for Teaching Quality in the Times and Sunday Times Good University Guide 2025. How to apply Find the course that's right for you: Select course type Undergraduate Postgraduate Short course Apprenticeship Enter course, subject or keyword Search Courses Entry requirements Accordion Undergraduate Students must have completed one of the following: Higher Secondary Certificate (HSC) / Standard 12 / All India Senior School Certificate / Indian School Certificate / Intermediate Pass Certificate with an overall average of 60%. 3 or 4-year Diploma (from a State Board of Technical Education or in an Allied Health subject) with 55% or above. Note: Higher Secondary Certificate (HSC) includes AISSCE (All India Senior School Certificate), which is a year 12 award conferred by the CBE/CBSE exam board. Certification details ALL INDIA SENIOR SCHOOL CERTIFICATE (including English Core, English Comm or Functional English) 60% or above NATIONAL EDUCATION BOARDS (CBSE/CICSE): 60% or above STATE BOARDS: (Maharashtra/West Bengal/Karnataka/Delhi/Tamil Nadu/Sikkim/Rajasthan/Madhya Pradesh/ Seven Sisters of India (Assam, Arunachal Pradesh, Manipur, Meghalaya, Mizoram, Nagaland/Tripura): 60% or above Kerala State Board: 65% or above (from 2nd year, i.e. Year 12) ALL OTHER BOARDS / STATE BOARDS: 70% or above Level 2 Maths (if required): Higher Secondary School Certificate (HSC) Mathematics (Year 12) with 50% or Higher. If Mathematics has not been taken in Year 12, then strong Year 10 Maths results will be acceptable (80%+). Year 12 Statistics and Accountancy will be accepted for RDBS courses with 60%+ LEVEL 3 SUBJECT SPECIFIC (IF REQUIRED): Higher Secondary School Certificate (HSC) with grade B or 70% in a subject-specific course. First year of a degree or Diploma in a relevant subject / with relevant modules. Foundation year / International Foundation Programme An aggregate score of over 50% / C1 in Higher Secondary Certificate (HSC) / Standard 12 / All India Senior School Certificate / Indian School Certificate / Intermediate Pass Certificate, and a score of 50% in Mathematics. 3 or 4-year Diploma (from a State Board of Technical Education or in an Allied Health subject) with 55% or above Accordion Postgraduate Students must have at least a 3 year Second Division Honours Bachelor of Arts, Science or Commerce (minimum length 3 years), or BEng, BAgriculture, B Laws, B Medicine, B Dentistry (3 year Bachelor or Arts, Science or Commerce, BTech etc - i.e. not Honours also acceptable) and have scored an average of: 50% or above from the following Universities: Delhi; Mumbai; Pune; Kolkata; Chennai; Anna; Bharatiyar; MSU Baroda; Bangalore 55% or above from all other recognised institutions Universities we are aware of with different grading scales and required score: Gujarat Technological University: CGPA 5.8 Amity University: CGPA 5.5 Kannur University: B or above. (A = 75 to 89, B+ = 60 to 74, B =50 to 59) Postgraduate awards such as master's, D.Pharm, and MBBS (Bachelor of Medicine, Bachelor of Surgery) would permit entry to suitable programmes. ADVANCED STANDING If students have completed 1 or 2 years of a degree or an Edexcel HND, or another recognised qualification, they may be considered (at the School's discretion) for advanced entry. PRE-MASTERS Students must have to pass an aggregate score of 40% (Third Class) degree from a recognised educational body. Notes: MBBS (Bachelor of Medicine, Bachelor of Surgery) programmes do not give a final classification, so a 'pass' would be acceptable. On some degree certificates, the classification mentions two (or three parts. Part I (or Parts I and II) usually refer to compulsory language studies such as English and Hindi, or a regional language, while Part II (or Part III) refers to the major areas of study. The standard pattern for a bachelor's degree used to be two years of full-time study following 10 years of schooling and two years of intermediate study. The two-year bachelor's degree was offered at some universities in West Bengal up to 1999/2000, but it was gradually phased out in the other states starting in the 1960s. The present system is commonly referred to as the 10+2+3 pattern, requiring three years of study for a bachelor's degree in arts, science and commerce. (Source: Nokut) A provisional degree certificate can be accepted; however, it must be accompanied by final/official transcripts. Contact us Accordion English Language Qualifications Accepted English Language Qualifications: IELTS Academic IELTS for UKVI TOEFL iBT Pearson PTE Academic Trinity College London Integrated Skills in English Cambridge IGCSE We do not accept: IELTS General TOEIC IGCSE / GCE O Levels in English Literature. Only English Language is accepted. Learn more about accepted English language qualifications. Accordion English language requirements Undergraduate All students are required to meet our standard English Language Requirements, e.g. IELTS, TOEFL IBT or Pearson Test of English (PTE), except for students who have studied in English medium throughout their studies and achieved one of the following results in the Higher Secondary Certificate (HSC) All India Senior School Certificate Indian School Certificate Intermediate Pass CertificateHigher Secondary Certificate (HSC) Standard 12 All India Senior School Certificate Indian School Certificate Intermediate Pass Certificate Postgraduate To study at UEL you must demonstrate that your English level is at the standard for university study. We accept a number of different English language qualifications/tests for entry onto our courses, with IELTS being the most common. Meet your representatives Kinjal Gandhi Interim Head Of Recruitment - South Asia Kinjal Gandhi Interim Head Of Recruitment - South Asia Kinjal Gandhi is the Interim Head of Recruitment for South Asia at the University of East London, bringing nearly two decades of experience in UK higher education. Certified by the British Deputy High Commission and the British Council, she leads student recruitment, strategic partnerships, and market development across the region. Kinjal is passionate about expanding access to global education and creating meaningful opportunities for students and partners alike this is mine Sumona Choudhury Territory Manager - South Asia Sumona Choudhury Territory Manager - South Asia Sumona Choudhury serves as Territory Manager for South Asia Recruitment at the University of East London. With nearly two decades of experience across EY, Accenture, AOL, and the immigration sector, she specialises in student recruitment, partnership management, and market development, fostering sustainable growth and international collaboration. Nitin Bhasson Territory Manager - South Asia Nitin Bhasson Territory Manager - South Asia Nitin Bhasson is the Territory Manager for South Asia at the University of East London, bringing over two decades of experience in international education. A UK-certified industry expert, he leads strategic partnerships, recruitment growth, and stakeholder engagement across the region, driving student success through ethical and data-driven recruitment practices. Gayatri Krishnamurthy Senior Student Recruitment Advisor - South Asia Gayatri Krishnamurthy Senior Student Recruitment Advisor - South Asia Gayatri Krishnamurthy -Currently serving as the Senior Recruitment Advisor for South Asia at the University of East London,is an accomplished international education leader with over a decade of specialized experience driving enrollment growth across the region. She leverages advanced data analytics and premium channel partnerships to accelerate application turnarounds and secure top-tier academic talent, successfully balancing market expansion with strict institutional compliance. Kalyani Walunj Student Recruitment Coordinator- South Asia Kalyani Walunj Student Recruitment Coordinator- South Asia Kalyani Walunj is a Student Recruitment Coordinator at the University of East London with four years of experience in international education. She specialises in recruitment operations, data management, and pipeline tracking, ensuring efficient processes and supporting successful student recruitment outcomes. Kiran Khatiwoda Senior Student Recruitment Advisor - Nepal Kiran Khatiwoda Senior Student Recruitment Advisor - Nepal Kiran Khatiwoda is the Senior Student Recruitment Advisor for Nepal at the University of East London. Based in Kathmandu, he brings over seven years of experience in international student recruitment, leading UEL's recruitment and partnership activities across Nepal. Kiran is dedicated to supporting students in achieving their higher education goals while strengthening UEL's presence in the Nepalese market. Rabeea Azam Regional Manager - Pakistan Rabeea Azam Regional Manager - Pakistan We are here to guide and support you every step of the way, so please feel free to reach out and ask about our experiences abroad. We look forward to being part of your journey and are excited to see where your time at East London will take you! Find an agent Accordion Study abroad agents in India ABEC PREMIER Level 16-Office B, Parkland Building, No. 33, Park Street, Colombo-02 Email address: info@abeclk.com Contact number with country code: +94770692940 Website Link: www.abec.lk Adventus Education Pte Ltd 105 Cecil Street #15-01, The Octagon, Singapore (069534) Email: ukpartnerships@adventus.io Contact number: +61 (0)438 152 249 Website: https://adventus.io/ Bluesky Educational Services Pvt Ltd 20/1 Ashutosh Chowdhury Avenue, Kolkata 700019 Email address: samrat@blueskyeducation.co.in Contact number with country code: +91 7797180598 Website link: www.blueskyeducation.co.in Crizac LTD Wing A, 3rd Floor, Constantia Building, 11 Dr. U.N. Brahmachari Street, Shakespeare Sarani Rd, Kolkata, West Bengal 700017 Email Address: uk@crizac.com Contact number with country code: +91 6292 307 410 Website link: https://www.crizac.com/# Destination Abroad LLC Shams Business Centre, Sharjah Media City Free Zone, Al Messaned, Sharjah, UAE Email Address: director@destinationabroadlimited.com Contact number with country code: +971 50 266 0977 Website link: www.destinationabroadlimited.com Ealoor Consultancy UK Carnival, Phase-II, 1st Floor, Infopark SEZ, Kakkanad, Kochi - 682030 Email address: studyabroad@ealoorconsultancy.co.uk Contact number with country code: +91 9995377366 Website link: https://ealoorstudyabroad.com/ EdLogica LLC 10th Floor, Aspin Commercial Tower, Sheikh Zayed Road, Dubai, UAE Email address: uel@edlogica.com Contact number with country code: +971 5259 05690, +971 5896 14654 Website link: www.edlogica.com See the full list of agents 1:00 Studying a master's degree at UEL Meet Varun, an MSc International Business Management student at the University of East London. Discover his experience of studying in London, life on campus, and preparing for the job market. Hear from more of our students Main slider 6:41 00:00 India & UEL: Educating for Impact, Innovation and the Future Image 1 of x 6:42 00:00 Hear from Nishi about her experience as an MBA student Image 1 of x 2:34 00:00 Hear from Priya as she explains why studying in London was the right choice for her, and the important things you should know before you apply. Image 1 of x 1:52 00:00 Hear from Ashwin about his PhD journey at UEL, including his research experience and the affordability of studying at the University of East London. Image 1 of x Thumbnail slider 6:41 Play India & UEL: Educating for Impact, Innovation and the Future Image 1 of x 6:42 Play Hear from Nishi about her experience as an MBA student Image 1 of x 2:34 Play Hear from Priya as she explains why studying in London was the right choice for her, and the important things you should know before you apply. Image 1 of x 1:52 Play Hear from Ashwin about his PhD journey at UEL, including his research experience and the affordability of studying at the University of East London. Image 1 of x Discover your future at UEL Explore UEL from wherever you are. Join an online event to find out about studying with us, meet our community and get your questions answered, or take a virtual tour of our campuses. View online events Explore our virtual tours Things to know How to apply as an international student Learn how to apply to the University of East London: direct, Common App, entry requirements, deposits, pre-CAS checks, CAS and visa steps. Student visa and immigration advice Get free, expert UK student visa advice from UEL's Immigration Advice team. Guidance on applying inside or outside the UK, dependants, and the Graduate Route. International admission deadlines Find application, deposit, pre-CAS and CAS deadlines for international students starting at UEL. International fees and funding Discover tuition fees, scholarships, bursaries and payment options for international students at UEL. Learn how to fund your studies and invest in your future."
+},
+{
+  "kind": "fees",
+  "id": "international-fees",
+  "url": "https://www.uel.ac.uk/study/fees-funding/international-fees-funding",
+  "checkedOn": "2026-10-28",
+  "collector": "scrapy",
+  "title": "International fees and funding",
+  "text": "Search Category Category Category All results Courses People News Events International fees and funding Animations on Animations on Investing in your future We understand that when you study in another country, you are making a big financial investment in your future. Hero Carousel Investing in your future We understand that when you study in another country, you are making a big financial investment in your future. International fees and funding On this page Overview Course modules Entry requirements What makes this course different Accreditations Course options What we're researching Your future career How we support your career ambitions Careers Guarantee What you'll learn DiscoverUni How you'll learn How you'll be assessed Campus and facilities Who teaches this course Testimonial FAQs Related courses Fees All applicants must provide fee assessment information to determine if they will be paying international tuition fees. Accordion Undergraduate tuition fees Average length: 3 years For new full-time international students starting in the 2026-27 academic year: £16,020 per year. Accordion Postgraduate tuition fees Course fees for new postgraduate students are provided on our individual postgraduate course pages . 2026-27 fees: Postgraduate courses (avg. length: 1 year) Fees: from £16,020 per year (MArch Architecture only) MBA (avg. length: 1 year) Fees: £19,500 per year (full time) MBA with Placement Fees: £19,500 (Year 1), £3,500 (Year 2 Placement Fee) Payment plans are available for international students; for more information, please contact international@uel.ac.uk International students must pay a tuition fee deposit before a Confirmation of Acceptance number can be issued. The required deposit amount varies by the level of study, and details on how to pay and the specific amount can be found in your Offer Letter/Email. Read our tuition fees policy for more information. Funding Saving money on your fees You may be eligible to apply for an international scholarship to study at the University of East London. Our International Office can provide guidance on opportunities available in your home country, the UK, or within your specific subject area. Accordion International Scholarships The University offers scholarships and discounts of up to £5,000 for international, self-funded students who pay full overseas fees. You can view the available scholarships and find out more by contacting the international student recruitment team at international@uel.ac.uk . Note: this does not apply to US students applying for Federal Aid ( federalaid@uel.ac.uk ) or those on full external scholarships. Accordion Early Payment Discount You can receive a 5 per cent discount on your undergraduate or postgraduate tuition fees if you pay them in full before mid-September of your starting year. If you are a postgraduate student starting in either September or January, you must pay your tuition in full before the date specified in your Offer Letter/Email to be eligible for the discount. Accordion Alumni Scholarship If you previously studied at UEL and were awarded a qualification, you may be eligible for our Alumni Scholarship , which offers up to 25 per cent off your tuition fees for subsequent courses. To apply, you must already hold one of the following qualifications from UEL: undergraduate degree master's degree professional doctorate degree postgraduate research degree This discount is not applicable to distance learning, post-compulsory education and training (PCET) courses, or any short courses worth less than 120 credits. Students who progress directly from an undergraduate to a postgraduate programme at UEL with no gap year will receive a 15 per cent tuition fee discount. The 15 per cent discount for direct progression cannot be combined with the Alumni Scholarship. Explore our alumni scholarship Accordion Course Specific Scholarships For some courses such as architecture or in the field of healthcare, there are sometimes scholarships or bursaries available. Check the course details on the website to find out whether this applies to you. To find out more about course-specific scholarships for international students, email international@uel.ac.uk Accordion Sports Scholarships With our outstanding SportsDock facilities, UEL attracts talented young athletes with one of the most attractive high-performance sports programmes in the UK. This programme allows elite athletes to balance their academic studies with their sporting ambitions. What we offer The programme provides world-class facilities and comprehensive support, including: Non-repayable bursaries for international (non-EU) students worth up to £6,000 a year. Up to £1,000 worth of support services, such as free access to SportsDock, free physiotherapy, and sports massages. Up to £1,000 for students with a coaching qualification to cover the cost of additional sports qualifications. Eligibility To be eligible for the programme, you must be seeking to study for a minimum of one year and have already received an offer to study at UEL. Our sports scholars include Olympians, Paralympians, and senior international athletes who represent UEL at national and international university competitions. . Visit our sports scholarships pages . Accordion TEAMUEL Sports Scholarships What TeamUEL offers TeamUEL members receive over £1,000 worth of discounts and support, including: Free TeamUEL kit Silver SportsDock membership Sports Club membership Club training A ticket to the annual Sports Awards dinner Additional support You can also choose up to £550 in additional support, such as: Free Gold SportsDock membership Five personal training sessions Meal vouchers A coaching qualification A £250 cash bursary Sports social night vouchers To be eligible, you need to be accepted onto a course with us. To apply, complete our online TeamUEL application form . Funding Calculator Find out what financial support you could get for your studies and living costs by answering a few quick questions. Try our funding calculator Bursaries We run a number of schemes which offer financial support to enrolled international students. The Emergency International Fund: This fund is for international students who are facing financial difficulty due to an unforeseen expense, despite having previous funding to cover their living costs. The International Engagement Fund: This fund is available to international students who live outside of London travel zones 1-9 due to high rental costs and need help with additional travel costs for their commute to the university or a required work placement. The International Progression Fund: This fund provides up to a £1,000 award to help international students cover high course-related expenses. Enrolled students can learn more about international bursaries on the intranet. Quick links Fee status assessment Paying your fees International scholarships Funding for North Americans UEL students may be able to access funding from the US to help pay for school related expenses in the UK. Learn more about federal loans FAQs - international fees and funding Accordion How can international students pay their deposit and tuition fees? The best way to pay your deposit is via Flywire. You will need to log into your applicant portal , click on 'International Checks', then 'deposit/payment'. This will take you through to Flywire, where you can make your payments. Accordion How much are UEL tuition fees for international students? Fees vary per course, so please check the individual course page. Accordion What scholarships are available for international students at the University of East London? If eligible (based on your course), it will be indicated and outlined in your Unconditional Offer letter. Scholarships range from £500 to £5,000 off the first year's tuition fees. Accordion What are the eligibility criteria for scholarships for international students? When you apply for an eligible course and receive an offer, we automatically check whether you qualify for an international scholarship (or discount). If you are eligible, we will include the scholarship amount in your offer letter. Accordion Does the University of East London offer bursaries or financial aid for international students? No, UEL does not offer full funding, but international students are eligible for the offered International Scholarship. UEL also provides several bursary schemes to support international students facing financial challenges. Accordion Can I get a discount on my tuition fees if I pay early? Yes. UEL offers a 5 per cent Early Payment Discount for international undergraduate and postgraduate students who pay their tuition fees in full before mid-September of the intake year (or before the deadline in your Offer Letter for January start dates). Accordion How can I request a refund on my tuition fees? Go to the 'Contact Us' button in the Applicant Portal, select 'Withdraw/Decline Application', and provide the details. You can then request the refund via the portal. Further information Student visa and immigration advice Get free, expert UK student visa advice from UEL's Immigration Advice team. Guidance on applying inside or outside the UK, dependants, and the Graduate Route. How to apply as an international student Learn how to apply to the University of East London: direct, Common App, entry requirements, deposits, pre-CAS checks, CAS and visa steps. International scholarships Find out how our international scholarships work and see what scholarships are on offer for your studies. We’d love to hear what you think! Your feedback helps us improve the experience for future students around the world. It only takes a minute to share your thoughts! Share your feedback International team Follow or like to connect with us."
+},
+{
+  "kind": "deposit",
+  "id": "international-deposit",
+  "url": "https://www.uel.ac.uk/study/fees-funding/paying-your-fees-international-students",
+  "checkedOn": "2026-10-28",
+  "collector": "scrapy",
+  "title": "Paying your fees - international students",
+  "text": "Search Category Category Category All results Courses People News Events Paying your fees - international students Animations on Animations on Find out what payment options are available to you and how to make a payment. Hero Carousel Find out what payment options are available to you and how to make a payment. Paying your fees - international students On this page Overview Course modules Entry requirements What makes this course different Accreditations Course options What we're researching Your future career How we support your career ambitions Careers Guarantee What you'll learn DiscoverUni How you'll learn How you'll be assessed Campus and facilities Who teaches this course Testimonial FAQs Related courses Payment methods and payment deadline Anyone with a valid offer can make a payment. For information about how to pay your fees and the payment deadlines, please see the UEL Tuition Fees Policy . Payment structures and deposits In order to confirm your offer, you must meet all conditions listed on your offer letter, as well as pay the deposit amount listed on your offer letter. How much is the deposit? Your full deposit amount and structure are stated in your offer letter. You can pay a deposit of £1,500 to start the pre-CAS checks process. A further payment will then be required for CAS issuance and enrolment. Any payments made at each stage are deducted from your overall tuition fees, meaning all instalments contribute toward the total fee you are required to pay. How to pay your deposit or tuition fees Payments toward your tuition should be made using Flywire. Not an international student? See information on home fee payments . Pay online with Flywire Flywire is our easiest and preferred method of payment. It is an online payment platform that allows international students to make payments in their local currency, track payments, and process payments faster with greater transparency. You can also access Flywire's customer service 24/7 in your local language. How to use Flywire How to pay using Flywire Follow the steps below based on your status. If you are an applicant Step 1: Access Flywire Log in to your application through the Application Portal using the link in your offer letter. From your dashboard, select International checks . Select Deposit payments . Under I ndicate how you will pay , choose an option (usually self-funded) and select Next . Select Pay online and choose Next . Select Payment portal. Do not tick the box to confirm you have made a payment and do not select Submit yet. You must return to this page after completing your payment in Flywire. If you select this option by mistake, email international@uel.ac.uk to request a reset. Step 2: Complete your payment in Flywire You will be redirected to the Flywire payment platform . Select the country you are paying from and enter the amount you want to pay in GBP sterling . Select Next . Review the available payment methods in your local currency. Options vary by country and exchange rate. Select your preferred method, enter the required details, and select Pay . Use Step 1 in the side panel to complete your payment. If your bank requires authorisation, scroll to Step 2 and download the authorisation letter. Step 3: Check payment status Once Flywire receives your payment, the first progress bar will turn green and show Payment guaranteed . After Flywire processes the payment and UEL receives it, the second progress bar will turn green and show Payment received . Processing times vary depending on the payment method. Download your payment receipt from the side panel. Step 4: Confirm your payment Return to the application page from Step 6. Tick the box to confirm you have made a payment. Select Submit . You can log in to your Flywire dashboard at any time to track your payment. Processing may take several days. If you are an enrolled student Step 1: Access Flywire Log in to UEL Direct Select My payments . Select View student statement and make payment . Select Make a payment . You will then be redirected to the Flywire payment platform. Step 2: Complete your payment in Flywire Select the country you are paying from and enter the amount you want to pay in GBP sterling . Select Next . Review the available payment methods in your local currency. Select your preferred method, enter the required details, and select Pay . Use Step 1 in the side panel to complete your payment. If required, download a bank authorisation letter from Step 2. Step 3: Check payment status When Flywire receives your payment, the status will show Payment guaranteed . Once UEL receives the payment, the status will update to Payment received . Download your payment receipt from the side panel. You can log in to your Flywire dashboard at any time to track your payment. Processing may take several days. Alternative payment options Accordion Online debit and credit card payment Visit UEL's online payment facility . Please note: We do not accept American Express or Diners Cards. Payments made online can take 48-72 hours to post on your tuition account. Students are responsible for ensuring payment is made. If a friend or third party pays on your behalf and the payment is later reversed (e.g. via a chargeback), the student remains liable for the full amount. View our terms and conditions for online payments. Accordion Sponsored students If your fees are paid in full or in part by an employer, government agency, or official body such as an international scholarship organisation, you are considered a sponsored student. You must provide a letter from your sponsor and submit details of your sponsor when you enrol. Parents, family, and friends do not count as sponsors. If they pay all or part of your fees, you will be classified as a ‘self-funding’ student and you will be expected to pay the fees accordingly. Accordion Federal Aid If you a citizen of the United States and would like more information on the funding options explained above, please contact us on +44 (0)20 8223 4444, or email federalaid@uel.ac.uk or visit our web page Funding for North Americans. Payment plans Please refer to your offer letter for payments required and deadline dates. Self-funded payment options Payment in full, if paid 2 weeks prior to start date you will be entitled to a 5% early payment discount. Instalment plan – once you have paid your relevant deposit you can opt to set up an instalment plan to pay the balance of your fees within 10 weeks from start date. A copy of the instalment agreement is sent to your UEL email account. Payment FAQs Accordion Can I pay by bank transfer? Yes, if you are unable to pay via FLYWIRE you can pay via bank transfer. The University's bank account details are; Bank name Barclays Bank Account name University of East London Bank Address Barking Central Branch, The Lemonade Building, 2 Station Parade, Barking, IG11 8DL. England Sort code 20-73-05 Account number 40739529 IBAN number GB30 BARC 2073 0540 7395 29 SWIFT / BIC CODE BARCGB22 (if 11 digits required add XXX) Reference number your 7 digit UEL student number and your name (e.g. 1234567 / SMITH ) Please ensure your UEL student number and name are stated as the payment reference, so our finance team know which student account to allocate the received payment to. Please note that bank transfers can take 3-5 working days for payments to be received and posted to your tuition account. Accordion I don't know my Student ID. Where can I find it? Your Student ID can be found on your offer letter or any UEL email communication. (This is the same as your applicant number). Accordion Is there an additional charge for paying by credit or debit card? No, there are no additional charges by UEL, if you choose to pay by debit or credit card. Accordion I have a sponsor who will be invoiced for my student fees. Can they pay in instalments? No - instalment payments are not available for fees invoiced to student sponsors. That means that employers, local authorities, charities or any other third party accepted sponsors will need to pay your fees in full. The invoice will be emailed to your sponsor once enrolment is completed. Payment is due 30 days from the date of invoice. Accordion Can I pay by direct debit? No - we do not offer direct debit as a payment option. Accordion Who can pay my fees? Anyone can make payment, whether they are the student or paying on behalf of a student. For example: Student, parent, other family member or sponsor. Please ensure your UEL student number and name are stated as the payment reference, so our finance team know which student account to allocate the received payment to. Accordion Can payments be made in a different currency than GBP? All payments must be in British Pound Sterling. If you pay by Flywire, you will be given the option to pay in a different currency and convert it. We are not responsible for any fluctuation in exchange rates and/or any bank charges. Accordion How can I pay my fees? If you are a currently enrolled student, you can view your statement and pay your Tuition Fees by card or PayPal through UEL Direct 24/7 by logging into uel.ac.uk/ueldirect and following the links. You will need your student number and password to use this method. If you are making a payment on behalf of a student, you can make payments against their Tuition Fees account via the following link https://epay.uel.ac.uk . You must have their Student ID number and date of birth to log in. Accordion Is there a discount if I pay in full before enrolment? Students will receive a 5% discount if they pay their fees in full before or at enrolment. The early payment discount applies to students paying the Overseas rate of fees on undergraduate and postgraduate programmes who paying their own fees. Accordion Why can’t I see my payment on my tuition account? If you have made your payment more than 5 working days ago and it is not yet reflecting on our UEL tuition account, please email creditcontrol@uel.ac.uk with as much information as possible, including your UEL student number, and attach proof of payment. The subject of your email should state Missing Payment Information. Contact us Email contact If you prefer to, you can contact us by email. Our email address is creditcontrol@uel.ac.uk. We can either reply by email or give you a call, if you prefer. Please state your student number or customer account number on your correspondence. Telephone contact You can also contact the Student Hub instead on 0208 223 4444 to select the option for the Income and Credit Control team. (Lines open: Monday to Friday, 9 am to 5 pm) Further information International fees and funding Discover tuition fees, scholarships, bursaries and payment options for international students at UEL. Learn how to fund your studies and invest in your future. International scholarships Find out how our international scholarships work and see what scholarships are on offer for your studies. Cost of Living Support Regardless of your financial situation, we’re committed to make studying in London possible for everyone and providing our students with support throughout their university experience."
+},
+{
+  "kind": "accommodation",
+  "id": "accommodation",
+  "url": "https://www.uel.ac.uk/study/accommodation/room-types-prices-payment-plans",
+  "checkedOn": "2026-10-28",
+  "collector": "scrapy",
+  "title": "Room types, prices and payment plans",
+  "text": "Search Category Category Category All results Courses People News Events Room types, prices and payment plans Take a tour of our different room types and find your on-campus home today. Browse our prices and payment plans to find a plan that works for you. Hero Carousel Take a tour of our different room types and find your on-campus home today. Browse our prices and payment plans to find a plan that works for you. UEL student accommodation prices for 2026/27 range from £189 per week for a West Halls standard en-suite room to £238 per week for an East Halls self-contained studio. All prices are fully all-inclusive, utilities (gas, electricity, water), high-speed Wi-Fi (up to 100 Mbps), and maintenance support are covered with no additional bills. Over 1,100 students live in our on-campus Docklands Student Village, which offers a range of en-suite room types across East and West Halls. Apply for accomodation Applications for 2026/27 are now open! Select ‘Apply Now’ to secure your place. Apply now Why UEL accommodation offers better value than private rentals All-inclusive rent: utilities, Wi-Fi, and TV licence covered With weekly rent from £189 , you'll know exactly what you're paying each month. Your rent includes gas, electricity, water, high-speed Wi-Fi, a TV licence in eligible flats, 24/7 security and maintenance support, so there are no unexpected bills to budget for. How UEL prices compare to private East London rents Finding privately rented accommodation in East London often means paying separate utility bills, internet costs and other household expenses on top of your rent. At UEL, these costs are included in one weekly payment, helping you budget with confidence while living on campus close to your classes and transport links. Premium accommodation We offer premium accommodation in both East and West Halls. In East Halls, the premium accommodation is in Longbridge House and in West Halls, it is located in Felix, Kwame, Jamilah and Ailsa Houses. They offer the same en-suite rooms and shared kitchen living as our standard halls; however, the rooms and kitchens have been recently refurbished. Premium East Halls 1:05 Premium East standard - Premium kitchen - SOLD OUT for 2026/27 54 sq. metre shared kitchen area. Recently refurbished throughout. Social area including sofas and a TV, with a TV licence included. 13 m2 single occupancy en-suite bedroom. From £224/week (2026/27 costs). 1:00 Premium East standard - Four-bed flat - SOLD OUT for 2026/27 Guaranteed to share the communal space with only 3 other students. Recently refurbished throughout. Dock-facing modern and spacious shared kitchen. 13 sq. metre single occupancy en-suite bedroom. From £224/week (2026/27 costs). 0:44 Premium Enhanced - Premium kitchen - SOLD OUT for 2026/27 54 sq. metre shared kitchen area. Recently refurbished throughout. Social area including sofas and a TV, with a TV licence included. 17 sq. metre single occupancy en-suite bedroom. From £231/week (2026/27 costs). 0:37 Premium Enhanced - Four-bed flat - SOLD OUT for 2026/27 Guaranteed to share the communal space with only 3 other students. Recently refurbished throughout. Dock-facing modern and spacious shared kitchen. 17 sq. metre single occupancy en-suite bedroom. From £231/week (2026/27 costs). Premium West Halls 0:49 Premium West Standard - Premium kitchen Recently refurbished throughout. Affordable London Living. Modern shared kitchen. 10 sq. metre single occupancy en-suite bedroom. From £189/week (2026/27 costs). 0:34 Wheelchair Accessible West - Premium kitchen Recently refurbished throughout. Affordable London Living. Modern shared kitchen. En-suite bedroom adapted for students with medical conditions*. From £189/week (2026/27 costs). Standard accommodation Affordable on-campus, en-suite accommodation. All bedrooms include under-bed storage, Wi-Fi with speeds up to 100mbps, a study desk, and a chair, as well as built-in shelving and cupboard space. East Halls 1:08 East standard Shared kitchen/dining area. Each flat houses between five and seven students. A 13 sq. metre single occupancy en-suite bedroom. From £210/week (2026/27 costs). 1:00 East standard - Four Bed Flat Shared kitchen/dining area. Guaranteed to share the communal space with only three other students. 13 sq. metre single occupancy en-suite bedroom. From £217/week (2026/27 costs). 1:04 East standard - Detached Flat - SOLD OUT for 2026/27 Located dockside on the ground floor with your own entrance to the building. Shared kitchen/dining area. Integrated appliances including a washing/drying machine. 13 sq. metre single occupancy en-suite bedroom. From £217/week (2026/27 costs). 0:52 East Studio Self-contained en-suite studio flat including bedroom, kitchen and dining space in one 14.58 sq. metre single occupancy room. Live, dine, and sleep in one room without having to share the space with other students. From £238/week (2026/27 costs). 0:47 East Enhanced- SOLD OUT for 2026/27 Larger student space with all the advantages of living in a shared flat environment. 17 sq. metre single occupancy en-suite bedroom. Shared kitchen/dining area. From £224/week (2026/27 costs). 0:43 Wheelchair Accessible East Studio En-suite studio room adapted for students with medical conditions.* Bedroom, kitchen and dining space in one single occupancy room. Live, dine, and sleep in one room without having to share the space with other students. From £238/week (2026/27 costs). Wheelchair Accessible Detached Flat Located dockside on the ground floor with your own entrance to the building. Shared kitchen/dining area. Integrated appliances, including a washing/drying machine. En-suite bedroom adapted for students with medical conditions.* From £217/week (2026/27 costs). West Halls 0:55 West Standard - SOLD OUT for 2026/27 Affordable London Living. Shared kitchen/ dining area. 10 sq. metre single occupancy en-suite bedroom. From £182/week (2026/27 costs). * Residential Life can work with Estates and Facilities to further adapt a room, if that would be beneficial. Should you require this, please get in contact with us. All our accommodation is located at the UEL, Docklands campus. It is right on the dock front in bright modern buildings. Virtual tour of a bedroom Docklands campus accommodation prices Our on-campus accommodation prices are fully inclusive, covering utilities, Wi-Fi, and maintenance support – giving you peace of mind compared to private rentals where additional bills can increase overall university accommodation costs. Accordion November intake - Full academic year Tenancy dates: 30/10/26 - 06/06/27 Total No. of Nights: 219 ROOM TYPE PRICE PER NIGHT TOTAL RENT East standard £30 £6,570 East standard - 4 bed flat £31 £6,789 Premium West Standard - Premium kitchen £27 £5,913 Accordion November intake - Full academic year and summer Tenancy dates: 30/10/26 - 31/08/27 Total number of Nights: 305 ROOM TYPE PRICE PER NIGHT TOTAL RENT Premium West Standard - Premium kitchen £27 £8,235 Accordion Full academic year Tenancy Dates: 12/09/2026 – 06/06/2027 Total No. of Nights: 267 ROOM TYPE PRICE PER NIGHT TOTAL RENT East standard £30 £8,010 East standard - 4 bed flat £31 £8,277 East standard - detached flat £31 £8,277 Studio £34 £9,078 Enhanced £32 £8,544 Premium East standard - 4 bed flat £32 £8,544 Premium East standard - Premium kitchen £32 £8,544 Premium Enhanced - 4 bed flat £33 £8,811 Premium Enhanced - Premium kitchen £33 £8,811 West standard £26 £6,942 Premium West Standard - Premium kitchen £27 £7,209 Accordion Full academic year and summer Tenancy Dates: 12/09/26 – 31/08/27 Total No. of Nights: 353 Room type Price per night Total rent East standard £30 £10,590 Studio £34 £12,002 Enhanced £32 £11,296 East Standard – Detached Flat £31 £10,943 Premium West Standard - Premium Kitchen £27 £9531 Accordion PGCE Tenancy Dates: 12/09/26 – 31/07/27 Total No. of Nights: 322 Room type Price per night Total rent East Standard £30 £9,660 Studio £34 £10,948 Enhanced £32 £10,304 East Standard – Detached Flat £31 £9,982 Accordion Term 1 Tenancy Dates: 12/09/26 – 17/01/27 Total No. of Nights: 127 Room type Price per night Total rent East standard £30 £3,810 East standard - 4 bed flat £31 £3,937 East standard - Detached flat £31 £3,937 Studio £34 £4,318 Enhanced £32 £4,064 Premium East standard - 4 bed flat £32 £4,064 Premium East standard - Premium kitchen £32 £4,064 Premium enhanced - 4 bed flat £33 £4,191 Premium enhanced- Premium kitchen £33 £4,191 West standard £26 £3,302 Premium West standard - Premium kitchen £27 £3,429 Accordion Room type breakdown - East Halls Hall Room type Price per WEEK Price per Night nO. OF rooms East Halls East standard £210 £30 506 East Halls East standard - 4 bed flat £217 £31 56 East Halls East standard - detached flat £217 £31 16 East Halls East studio £238 £34 100 East Halls Enhanced £224 £32 8 East Halls Wheelchair accessible East studio £238 £34 7 East Halls Wheelchair accessible detached flat £217 £31 3 Premium East Hall Premium East standard - 4 bed flat £224 £32 45 Premium East Hall Premium East standard - Premium kitchen £224 £32 35 Premium East Hall Premium enhanced - 4 bed flat £231 £33 3 Premium East Hall Premium enhanced - Premium kitchen £231 £33 1 Accordion Room type breakdown - West Halls Hall Room type Price per WEEK Price per Night nO. OF rooms West Halls West standard £182 £26 68 Premium West Hall Premium West standard - premium kitchen £189 £27 308 Premium West Hall Wheelchair accessible West - premium kitchen £189 £27 4 Payment plans and rent information A student accommodation payment plan is a way of paying your student housing rent by dividing the total amount due into several equal, smaller instalments. These are then paid throughout the year. The total amount that you owe will be your total rent for your tenancy, minus any payments you have already made. Your payment plan will be available for you to set up via UEL Direct within 72 hours of accepting your room offer for the Halls of Residence. You will be emailed as soon as your payment plan task is ready for you to complete. Payment plan options Your student accommodation payment plan options are dependent on what tenancy type you select: Term 1 only or Term 2 only Tenancy: Option to pay in 3 instalments. Full Academic Year Tenancy (including Nov intake): Option to pay in 3 or 7 instalments. Full Academic Year and Summer Tenancy (including Nov intake): Option to pay in 3, 7, or 10 instalments. All tenancy types come with the option to pay for the entire cost of your rent at the start of your stay, in one payment. To do this, set up any payment plan and make a payment for all instalments at once. Instructions on how to make a payment are below. Setting up your payment plan Open UEL Direct and enter your UEL email (Example: u1234567@uel.ac.uk). Enter your password, which is your date of birth in the following format: ddMmyyyy (Example: 06Jan1991). Then, click the “Sign-in” button. You will only have access to UEL Direct once your enrolment task is available to you. If you have issues accessing UEL Direct, please contact the Student Hub via 0208 223 4444 . Once you are logged into UEL Direct, go to “My Payments” > “Student Statement” > “Set Up Payment Plan” > select instalment amounts > “Confirm and Submit” > “Exit”. If you wish to change your payment plan, please email residentiallife@uel.ac.uk . You cannot change your payment plan if you are in arrears. Deadline to set up your payment plan We ask that all students set up their student accommodation payment plan before their arrival at the Halls of Residence. However, we understand that due to access to UEL Direct and Enrolment, this may not always be possible. We therefore have the following deadlines in place: If you arrive as part of the September intake, your payment plan must be set up by 30 October. Failure to set up your payment plan will result in your full rent being due on 30 October. If you arrive mid-year, after the September intake, you need to ensure your payment plan is set up by the 30th of the month you arrive. For example, if you arrive on 5 November, your payment plan must be set up by 30 November. Failure to set up your payment plan by the 30th of your arrival month will result in your full rent being due on the 30th of that month. How to make a payment Paying via recurring card payments is no longer an option for paying your rent. Payments need to be paid manually via UEL Direct by going to My Payments > Student Statement > “Make an Accommodation Payment”. You will then be directed to the payment system, Flywire. Watch the video below for step-by-step instructions on how to make a payment. How to make a payment video guide Frequently Asked Questions (FAQs) about UEL room prices Accordion What is the cheapest room at UEL? The most affordable room at UEL is the West Halls standard en-suite bedroom, available from £189 per week for the 2026/27 academic year. This includes all utilities and Wi-Fi. Accordion Does UEL accommodation include bills? Yes. All UEL on-campus accommodation is all-inclusive. Gas, electricity, water, high-speed Wi-Fi (up to 100 Mbps), and maintenance support are all included in the weekly rent. Accordion Can I pay UEL accommodation fees in instalments? Yes. UEL offers payment plans with 3, 7, or 10 instalment options depending on your tenancy type. Payment plans are set up via UEL Direct. International students can pay via Flywire. Accordion Can I pay for UEL accommodation from outside the UK? Yes. UEL uses Flywire for international payments, which supports bank transfers in local currencies including Indian Rupees, Nigerian Naira, and Pakistani Rupees. Student accommodation On-campus student accommodation at UEL from £189/week, all bills included. En-suite rooms on Docklands waterfront. Applications for this year now open. Accommodation FAQs Here are some answers to commonly asked questions about our accommodation."
+},
+{
+  "kind": "dates",
+  "id": "admission-deadlines",
+  "url": "https://www.uel.ac.uk/international/international-admission-deadlines",
+  "checkedOn": "2026-10-28",
+  "collector": "scrapy",
+  "title": "International Admission Deadlines",
+  "text": "Search Category Category Category All results Courses People News Events International Admission Deadlines Animations on Animations on International Admission Deadlines Find application, deposit, pre-CAS and CAS deadlines for international students starting at UEL Browse our courses Get in touch Get in touch Hero Carousel International Admission Deadlines Find application, deposit, pre-CAS and CAS deadlines for international students starting at UEL Browse our courses Get in touch Get in touch International Admission Deadlines Find the deadlines that apply to your course International admission deadlines depend on your course and start date. Before checking the deadlines below: Check the International full-time section on your course page to confirm your start date. Check whether your course has separate deadlines. Some programmes, including PGCE courses, have different deadlines from the main September intake. Contact our International Admissions team if you are unsure which deadlines apply to you. If your country is listed under the differential evidence requirement on the UK Visas and Immigration (UKVI) financial requirements guidance, different deadlines may apply to you. *Deadlines can change if places on a programme are limited. Some programmes may also have earlier deadlines because they start earlier. Choose your course start Accordion September 2026 – most courses Please note, these deadlines could be subject to change. Deadlines are the same for UKVI priority and non-priority except for CAS issuance dates. Stage Deadline Application deadline Friday 31 July 2026 Deposit deadline Received by us by Wednesday 12 August 2026 Pre-CAS interview deadline Recorded by Monday 17 August 2026 TB and maintenance documents Submitted by Wednesday 19 August 2026 Latest date to issue a CAS – UKVI non-priority visa service Wednesday 26 August 2026 Latest date to issue a CAS – UKVI priority visa service Wednesday 2 September 2026 Before you start at UEL Event Date Pre-arrival and Kickstarter (online) Thursday 10 September 2026 Welcome Fest and International Orientation Monday 21 September 2026 Welcome Week and course inductions Week commencing Monday 21 September 2026 Teaching starts Monday 28 September 2026 Accordion September 2026 – PGCE courses Please note, these deadlines could be subject to change. Deadlines are the same for UKVI priority and non-priority except for CAS issuance dates. Stage Deadline Application deadline Friday 26 June 2026 Deposit deadline Received by us by Wednesday 15 July 2026 Pre-CAS interview deadline Recorded by Wednesday 22 July 2026 TB and maintenance documents Submitted by Wednesday 29 July 2026 Latest date to issue a CAS – UKVI non-priority visa service Wednesday 5 August 2026 Latest date to issue a CAS – UKVI priority visa service Wednesday 12 August 2026 Before you start at UEL Event Date Course orientations Week commencing Monday 31 August 2026 Pre-arrival and Kickstarter (online) Thursday 10 September 2026 Teaching starts Week commencing Monday 14 September 2026 Welcome Fest and International Orientation Monday 21 September 2026 Accordion November 2026 – selected courses Please note, these deadlines could be subject to change. Selected courses for the November 2026 start are those where this start date is confirmed in your offer letter. Stage Deadline Application deadline Wednesday 23 September 2026 Deposit deadline Received by us by Wednesday 30 September 2026 Pre-CAS interview deadline Recorded by Monday 5 October 2026 TB and maintenance documents Submitted by Monday 5 October 2026 Latest date to issue a CAS – UKVI priority visa service only Wednesday 14 October 2026 Before you start at UEL Event Date Pre-arrival and Kickstarter (online) Thursday 22 October 2026 Welcome Fest and International Orientation Monday 2 November 2026 Welcome Week and course inductions Week commencing Monday 2 November 2026 Teaching starts Monday 9 November 2026 Accordion January 2027 – most courses Not all courses start in January. View our January start courses to see which courses are available for this intake. Please note, these deadlines could be subject to change. Stage Deadline Application deadline Friday 27 November 2026 Deposit deadline Payment received by Wednesday 9 December 2026 Pre-CAS interview deadline Interview recorded by Wednesday 16 December 2026 TB and maintenance documents – UKVI non-priority visa service Submitted by Thursday 17 December 2026 TB and maintenance documents – UKVI priority visa service Submitted by Friday 1 January 2027 Latest date to issue a CAS – UKVI non-priority visa service Thursday 17 December 2026 Latest date to issue a CAS – UKVI priority visa service Thursday 7 January 2027 Before you start at UEL Event Date Pre-arrival and Kickstarter (online) Thursday 7 January 2027 Welcome Fest Monday 18 January 2027 Course orientations Week commencing Monday 18 January 2027 Teaching starts Monday 25 January 2027 Latest date to enrol Monday 15 February 2027 Accordion September 2027 September 2027 deadlines coming soon. We’ll update this page with application, CAS and key start dates for September 2027 as soon as they are confirmed. Pre-sessional English Courses If you do not currently meet the English-language requirements for your course, you may be eligible for a Pre-sessional English programme before starting your degree. You do not need to apply separately. When you apply for your main UEL course, we will assess your English-language qualifications and let you know if you are eligible. View Pre-sessional English dates You may be interested in... How to apply as an international student Learn how to apply to the University of East London: direct, Common App, entry requirements, deposits, pre-CAS checks, CAS and visa steps. International events Find upcoming in-person and virtual events that provide guidance on admissions, student life, and studying at the University of East London. Guidance for your region Explore UEL’s region pages for international students. Find entry requirements, fees, scholarships and popular courses tailored to your country. Beyond the Russell Group: the real reasons students are choosing UEL When people talk about top universities, Russell Group names often appear first. But higher education has moved on. International Admissions Deadlines FAQs Accordion Which deadline applies to me? Use the deadlines for your intake (for example, January or May). Some courses have different deadlines, such as BSc Adult Nursing, so always check the course-specific section on this page as well. Accordion What is the deposit deadline and why does it matter? The deposit is a tuition fee payment you need to make before we can start pre-CAS checks and issue your CAS. Your deposit must reach us by the deadline shown for your intake. Accordion What is a pre-CAS interview and when do I need to do it? A pre-CAS interview is a supportive assessment that helps understand your reasons for studying in the UK and at UEL, and to help prepare you for the UK Visas and Immigration (UKVI) credibility interview. If you are required to complete one, you must record it by the deadline listed for your intake. Accordion What are “TB and maintenance documents” and when should I submit them? These are documents that UK Visas and Immigration (UKVI) may require as part of your Student visa application. They include: a UKVI approved Tuberculosis (TB) test certificate (if applicable) and financial evidence (known as ‘maintenance’) to show you can support yourself while studying in the UK. If you are required to submit these documents to UEL as part of the pre-CAS checks, you must do so by the deadline shown for your intake. Accordion What happens if I miss a deadline? We may not be able to complete your pre-CAS checks or issue your CAS in time for your intake. This could mean deferring your start date and delaying your Student visa application. If you think you will miss a deadline, contact us as soon as possible."
+},
+{
+  "kind": "robots",
+  "id": "robots",
+  "url": "https://www.uel.ac.uk/robots.txt",
+  "checkedOn": "2026-10-28",
+  "collector": "scrapy",
+  "title": "robots",
+  "text": "#\r\n# robots.txt\r\n#\r\n# This file is to prevent the crawling and indexing of certain parts\r\n# of your site by web crawlers and spiders run by sites like Yahoo!\r\n# and Google. By telling these \"robots\" where not to go on your site,\r\n# you save bandwidth and server resources.\r\n#\r\n# This file will be ignored unless it is at the root of your host:\r\n# Used:    http://example.com/robots.txt\r\n# Ignored: http://example.com/site/robots.txt\r\n#\r\n# For more information about the robots.txt standard, see:\r\n# http://www.robotstxt.org/robotstxt.html\r\n\r\nUser-agent: *\r\n# CSS, JS, Images\r\nAllow: /core/*.css$\r\nAllow: /core/*.css?\r\nAllow: /core/*.js$\r\nAllow: /core/*.js?\r\nAllow: /core/*.gif\r\nAllow: /core/*.jpg\r\nAllow: /core/*.jpeg\r\nAllow: /core/*.png\r\nAllow: /core/*.svg\r\nAllow: /profiles/*.css$\r\nAllow: /profiles/*.css?\r\nAllow: /profiles/*.js$\r\nAllow: /profiles/*.js?\r\nAllow: /profiles/*.gif\r\nAllow: /profiles/*.jpg\r\nAllow: /profiles/*.jpeg\r\nAllow: /profiles/*.png\r\nAllow: /profiles/*.svg\r\n# Directories\r\nDisallow: /core/\r\nDisallow: /profiles/\r\n# Files\r\nDisallow: /README.txt\r\nDisallow: /web.config\r\n# Paths (clean URLs)\r\nDisallow: /admin/\r\nDisallow: /comment/reply/\r\nDisallow: /filter/tips\r\nDisallow: /node/add/\r\nDisallow: /search/\r\nDisallow: /site-search/\r\nDisallow: /user/register\r\nDisallow: /user/password\r\nDisallow: /user/login\r\nDisallow: /user/logout\r\nDisallow: /media/oembed\r\nDisallow: /*/media/oembed\r\n# Paths (no clean URLs)\r\nDisallow: /index.php/admin/\r\nDisallow: /index.php/comment/reply/\r\nDisallow: /index.php/filter/tips\r\nDisallow: /index.php/node/add/\r\nDisallow: /index.php/search/\r\nDisallow: /index.php/user/password\r\nDisallow: /index.php/user/register\r\nDisallow: /index.php/user/login\r\nDisallow: /index.php/user/logout\r\nDisallow: /index.php/media/oembed\r\nDisallow: /index.php/*/media/oembed\r\nDisallow: /taxonomy/\r\nDisallow: /elaines-accessibility-page\r\nDisallow: /search-site*\r\nDisallow: /site-search*\r\nDisallow: /node/\r\nDisallow: /node/*"
+}
+]

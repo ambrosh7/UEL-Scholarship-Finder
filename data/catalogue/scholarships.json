@@ -1,0 +1,23 @@
+[
+  {
+    "id": "uel-international-scholarship",
+    "amountMinGbp": 500,
+    "amountMaxGbp": 5000,
+    "appliesTo": "first-year-tuition",
+    "autoAssessed": true,
+    "requiresOffer": true,
+    "eligibleLevels": [
+      "undergraduate",
+      "postgraduate-taught"
+    ],
+    "exclusions": [
+      "Short courses or exchange/study abroad programmes",
+      "Franchised programmes",
+      "Pre-Masters programmes",
+      "International Foundation programmes",
+      "Pre-sessional English programmes"
+    ],
+    "sourceUrl": "https://www.uel.ac.uk/study/fees-funding/international-fees-funding/international-scholarships",
+    "checkedOn": "2026-10-28"
+  }
+]
